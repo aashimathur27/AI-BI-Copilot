@@ -1,0 +1,36 @@
+# --- Secrets / environment ---
+.env
+.env.*
+*.pem
+*.key
+
+# --- Local database (contains user accounts + password hashes) ---
+app_data.db
+*.sqlite3
+
+# --- Runtime-generated / user data — keep the folders, ignore their contents ---
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+models/*
+!models/.gitkeep
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

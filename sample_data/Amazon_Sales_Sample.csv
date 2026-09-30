@@ -1,0 +1,606 @@
+Order ID,Order Date,Customer Name,Category,Product Name,Region,Quantity,Sales,Profit
+AMA-10000,2023-01-01,Customer 34,Office Supplies,Binder,East,4,803.94,85.0
+AMA-10001,2023-01-02,Customer 2,Office Supplies,Binder,East,5,502.16,85.9
+AMA-10002,2023-01-03,Customer 41,Office Supplies,Stapler,West,6,"1979.14,00",194.46
+AMA-10003,2023-01-04,Customer 6,Furniture,Desk,South,7,1529.42,100.46
+AMA-10004,2023-01-05,Customer 27,Technology,Monitor,West,7,1323.82,231.67
+AMA-10005,2023-01-07,Customer 5,Office Supplies,Pen Pack,North,7,614.43,71.51
+AMA-10006,2023-01-08,Customer 16,Furniture,Bookshelf,East,2,784.23,107.33
+AMA-10007,2023-01-09,Customer 33,Office Supplies,Paper,South,7,3291.9,560.97
+AMA-10008,2023-01-10,Customer 43,Office Supplies,Pen Pack,South,1,53.14,7.66
+AMA-10009,2023-01-11,Customer 10,Office Supplies,Stapler,East,2,182.57,22.61
+AMA-10010,2023-01-13,Customer 33,Office Supplies,Binder,North,7,800.87,100.87
+AMA-10011,2023-01-14,Customer 16,Office Supplies,Binder,West,7,2478.83,374.68
+AMA-10012,2023-01-15,Customer 59,Furniture,Sofa,South,2,808.9,95.4
+AMA-10013,2023-01-16,Customer 25,Technology,Laptop,East,6,2089.55,267.22
+AMA-10014,2023-01-18,Customer 25,Technology,Monitor,South,3,938.13,60.38
+AMA-10015,2023-01-19,Customer 46,Technology,Router,West,1,163.03,28.42
+AMA-10016,2023-01-20,Customer 60,Technology,Router,North,1,79.16,3.88
+AMA-10017,2023-01-21,Customer 30,Furniture,Bookshelf,West,3,356.34,37.57
+AMA-10018,2023-01-22,Customer 10,Furniture,Office Chair,West,2,553.18,44.95
+AMA-10019,2023-01-24,Customer 17,Furniture,Office Chair,South,1,198.6,6.09
+AMA-10020,2023-01-25,Customer 56,Office Supplies,Pen Pack,West,3,920.3,76.74
+AMA-10021,2023-01-26,Customer 28,Office Supplies,Pen Pack,East,3,386.85,43.66
+AMA-10022,2023-01-27,Customer 46,Office Supplies,Stapler,South,2,,60.06
+AMA-10023,2023-01-29,Customer 19,Technology,Laptop,South,1,293.1,24.35
+AMA-10024,2023-01-30,Customer 49,Office Supplies,Pen Pack,East,3,1281.8,210.88
+AMA-10025,2023-01-31,Customer 46,Technology,Printer,East,5,1879.91,198.92
+AMA-10026,2023-02-01,Customer 54,Office Supplies,Paper,South,2,686.81,74.8
+AMA-10027,2023-02-02,Customer 20,Technology,Printer,West,1,109.48,5.38
+AMA-10028,2023-02-04,Customer 33,Office Supplies,Stapler,East,5,1896.66,91.12
+AMA-10029,2023-02-05,Customer 26,Office Supplies,Binder,North,6,2876.55,232.84
+AMA-10030,2023-02-06,Customer 33,Furniture,Bookshelf,West,6,2156.96,109.98
+AMA-10031,2023-02-07,Customer 36,Office Supplies,Binder,West,2,91.63,6.52
+AMA-10032,2023-02-08,Customer 48,Office Supplies,Pen Pack,North,4,1137.27,215.61
+AMA-10033,2023-02-10,Customer 40,Furniture,Desk,West,4,1557.91,128.68
+AMA-10034,2023-02-11,Customer 46,Technology,Router,North,4,211.41,18.12
+AMA-10035,2023-02-12,Customer 30,Furniture,Desk,South,7,1234.77,159.61
+AMA-10036,2023-02-13,Customer 53,Furniture,Sofa,East,7,436.13,26.56
+AMA-10037,2023-02-15,Customer 58,Technology,Router,East,5,1875.68,258.85
+AMA-10038,2023-02-16,Customer 17,Office Supplies,Paper,South,5,1343.39,201.16
+AMA-10039,2023-02-17,Customer 35,Technology,Printer,West,7,1169.06,219.93
+AMA-10040,2023-02-18,Customer 46,Office Supplies,Binder,East,2,550.93,27.89
+AMA-10041,2023-02-19,Customer 51,Office Supplies,Stapler,East,7,1760.44,102.57
+AMA-10042,2023-02-21,Customer 22,Technology,Printer,North,2,,168.61
+AMA-10043,2023-02-22,Customer 34,Furniture,Office Chair,South,5,541.08,73.57
+AMA-10044,2023-02-23,Customer 9,Technology,Monitor,West,2,431.57,51.05
+AMA-10045,2023-02-24,Customer 20,Office Supplies,Stapler,North,4,574.36,59.83
+AMA-10046,2023-02-26,Customer 54,Technology,Printer,West,6,2279.87,202.89
+AMA-10047,2023-02-27,Customer 24,Technology,Monitor,West,1,206.16,32.02
+AMA-10048,2023-02-28,Customer 44,Office Supplies,Stapler,North,2,343.36,11.0
+AMA-10049,2023-03-01,Customer 50,Furniture,Office Chair,East,3,150.87,29.47
+AMA-10050,2023-03-02,Customer 21,Technology,Router,South,7,1085.34,111.74
+AMA-10051,2023-03-04,Customer 57,Office Supplies,Binder,West,4,957.09,60.43
+AMA-10052,2023-03-05,Customer 52,Office Supplies,Stapler,North,2,402.87,20.25
+AMA-10053,2023-03-06,Customer 52,Technology,Printer,North,7,1567.84,59.07
+AMA-10054,2023-03-07,Customer 21,Furniture,Sofa,North,7,982.99,36.16
+AMA-10055,2023-03-09,Customer 50,Technology,Monitor,East,2,372.35,31.14
+AMA-10056,2023-03-10,Customer 44,Furniture,Office Chair,South,7,917.36,178.21
+AMA-10057,2023-03-11,Customer 36,Furniture,Bookshelf,South,5,1339.91,105.16
+AMA-10058,2023-03-12,Customer 37,Furniture,Desk,South,2,"318.44,00",24.81
+AMA-10059,2023-03-13,Customer 24,Furniture,Office Chair,West,1,221.19,40.96
+AMA-10060,2023-03-15,Customer 30,Technology,Laptop,South,3,151.99,26.58
+AMA-10061,2023-03-16,Customer 58,Office Supplies,Pen Pack,South,2,761.7,147.64
+AMA-10062,2023-03-17,Customer 22,Office Supplies,Paper,North,7,2474.93,466.61
+AMA-10063,2023-03-18,Customer 16,Office Supplies,Binder,West,6,221.42,21.94
+AMA-10064,2023-03-19,Customer 5,Office Supplies,Paper,North,4,448.55,23.47
+AMA-10065,2023-03-21,Customer 42,Office Supplies,Stapler,East,7,1740.44,252.34
+AMA-10066,2023-03-22,Customer 48,Office Supplies,Pen Pack,East,6,565.99,38.7
+AMA-10067,2023-03-23,Customer 37,Technology,Printer,North,5,2489.23,137.29
+AMA-10068,2023-03-24,Customer 40,Furniture,Desk,East,3,356.65,57.33
+AMA-10069,2023-03-26,Customer 16,Office Supplies,Binder,West,2,816.23,86.35
+AMA-10070,2023-03-27,Customer 48,Technology,Laptop,West,1,37.95,7.03
+AMA-10071,2023-03-28,Customer 56,Office Supplies,Stapler,West,2,155.92,24.6
+AMA-10072,2023-03-29,Customer 48,Office Supplies,Stapler,North,3,1230.81,94.58
+AMA-10073,2023-03-30,Customer 56,Furniture,Office Chair,East,5,1605.92,104.09
+AMA-10074,2023-04-01,Customer 38,Furniture,Office Chair,East,5,844.74,65.95
+AMA-10075,2023-04-02,Customer 4,Furniture,Sofa,South,4,1843.56,173.52
+AMA-10076,2023-04-03,Customer 3,Office Supplies,Binder,North,5,1636.91,312.82
+AMA-10077,2023-04-04,Customer 55,Office Supplies,Pen Pack,North,6,909.09,121.27
+AMA-10078,2023-04-06,Customer 15,Office Supplies,Paper,South,4,640.05,50.67
+AMA-10079,2023-04-07,Customer 32,Furniture,Office Chair,East,3,570.91,73.74
+AMA-10080,2023-04-08,Customer 39,Technology,Printer,South,6,167.98,17.01
+AMA-10081,2023-04-09,Customer 9,Office Supplies,Paper,East,7,16361.71,2330.37
+AMA-10082,2023-04-10,Customer 31,Office Supplies,Pen Pack,East,3,1140.48,200.34
+AMA-10083,2023-04-12,Customer 26,Office Supplies,Paper,West,7,,220.91
+AMA-10084,2023-04-13,Customer 30,Technology,Router,West,4,821.22,120.84
+AMA-10085,2023-04-14,Customer 50,Office Supplies,Stapler,North,1,250.67,8.82
+AMA-10086,2023-04-15,Customer 44,Technology,Router,East,7,825.42,33.49
+AMA-10087,2023-04-17,Customer 16,Office Supplies,Pen Pack,West,7,1862.39,321.65
+AMA-10088,2023-04-18,Customer 45,Technology,Monitor,South,6,674.91,102.33
+AMA-10089,2023-04-19,Customer 44,Office Supplies,Pen Pack,North,4,516.76,48.52
+AMA-10090,2023-04-20,Customer 55,Furniture,Bookshelf,North,2,988.6,38.48
+AMA-10091,2023-04-21,Customer 10,Furniture,Bookshelf,South,4,1442.57,171.18
+AMA-10092,2023-04-23,Customer 49,Furniture,Office Chair,West,5,776.38,33.75
+AMA-10093,2023-04-24,Customer 58,Furniture,Office Chair,North,7,591.7,111.88
+AMA-10094,2023-04-25,Customer 19,Office Supplies,Pen Pack,East,1,396.08,52.92
+AMA-10095,2023-04-26,Customer 43,Furniture,Bookshelf,North,2,554.12,64.63
+AMA-10096,2023-04-27,Customer 7,Technology,Laptop,North,5,905.96,35.99
+AMA-10097,2023-04-29,Customer 52,Furniture,Bookshelf,East,6,1424.14,106.33
+AMA-10098,2023-04-30,Customer 47,Furniture,Office Chair,South,5,778.12,117.13
+AMA-10099,2023-05-01,Customer 42,Furniture,Office Chair,East,1,297.7,45.88
+AMA-10100,2023-05-02,Customer 45,Office Supplies,Paper,South,4,576.88,102.6
+AMA-10101,2023-05-04,Customer 48,Furniture,Sofa,East,3,1420.38,126.45
+AMA-10102,2023-05-05,Customer 2,Technology,Laptop,North,7,3290.47,440.05
+AMA-10103,2023-05-06,Customer 9,Furniture,Desk,West,7,187.7,27.6
+AMA-10104,2023-05-07,Customer 5,Furniture,Desk,North,5,2489.01,174.83
+AMA-10105,2023-05-08,Customer 40,Furniture,Desk,West,6,607.19,24.18
+AMA-10106,2023-05-10,Customer 29,Technology,Router,West,3,387.26,31.07
+AMA-10107,2023-05-11,Customer 19,Furniture,Bookshelf,North,1,313.44,52.95
+AMA-10108,2023-05-12,Customer 1,Technology,Monitor,North,4,746.16,26.49
+AMA-10109,2023-05-13,Customer 35,Technology,Router,North,3,890.14,133.46
+AMA-10110,2023-05-15,Customer 45,Furniture,Office Chair,North,7,1835.13,112.9
+AMA-10111,2023-05-16,Customer 22,Technology,Monitor,West,6,1403.09,210.72
+AMA-10112,2023-05-17,Customer 49,Office Supplies,Pen Pack,East,4,1172.88,219.79
+AMA-10113,2023-05-18,Customer 36,Furniture,Bookshelf,East,6,386.25,49.75
+AMA-10114,2023-05-19,Customer 8,Furniture,Office Chair,South,3,1452.1,170.44
+AMA-10115,2023-05-21,Customer 39,Technology,Printer,West,1,483.98,27.74
+AMA-10116,2023-05-22,Customer 31,Technology,Printer,South,4,605.07,29.1
+AMA-10117,2023-05-23,Customer 25,Furniture,Desk,West,1,189.67,36.27
+AMA-10118,2023-05-24,Customer 42,Office Supplies,Binder,South,4,674.18,109.55
+AMA-10119,2023-05-26,Customer 44,Technology,Monitor,South,4,1968.01,59.95
+AMA-10120,2023-05-27,Customer 59,Technology,Monitor,West,7,3049.5,602.89
+AMA-10121,2023-05-28,Customer 34,Office Supplies,Pen Pack,South,6,2543.87,256.82
+AMA-10122,2023-05-29,Customer 3,Office Supplies,Binder,East,2,168.43,7.03
+AMA-10123,2023-05-30,Customer 17,Furniture,Office Chair,West,2,635.43,50.36
+AMA-10124,2023-06-01,Customer 6,Office Supplies,Paper,West,2,5417.57,290.84
+AMA-10125,2023-06-02,Customer 24,Furniture,Bookshelf,West,3,1434.72,117.01
+AMA-10126,2023-06-03,Customer 35,Office Supplies,Binder,South,4,592.25,26.98
+AMA-10127,2023-06-04,Customer 13,Technology,Printer,South,1,192.64,13.39
+AMA-10128,2023-06-05,Customer 2,Furniture,Office Chair,North,4,98.87,5.92
+AMA-10129,2023-06-07,Customer 22,Furniture,Desk,South,7,1161.76,196.03
+AMA-10130,2023-06-08,Customer 5,Furniture,Sofa,West,7,2468.21,117.86
+AMA-10131,2023-06-09,Customer 13,Office Supplies,Paper,West,1,459.25,47.44
+AMA-10132,2023-06-10,Customer 35,Technology,Router,North,5,1238.64,189.24
+AMA-10133,2023-06-12,Customer 10,Furniture,Office Chair,West,2,646.45,22.37
+AMA-10134,2023-06-13,Customer 45,Furniture,Office Chair,East,1,168.91,23.8
+AMA-10135,2023-06-14,Customer 16,Furniture,Bookshelf,South,7,1698.99,182.41
+AMA-10136,2023-06-15,Customer 23,Furniture,Bookshelf,North,6,,77.92
+AMA-10137,2023-06-16,Customer 15,Technology,Router,North,5,1645.38,263.28
+AMA-10138,2023-06-18,Customer 50,Office Supplies,Paper,South,7,1916.46,85.27
+AMA-10139,2023-06-19,Customer 51,Technology,Laptop,South,2,320.95,33.2
+AMA-10140,2023-06-20,Customer 23,Furniture,Sofa,South,6,590.46,66.75
+AMA-10141,2023-06-21,Customer 13,Technology,Printer,South,3,732.86,76.26
+AMA-10142,2023-06-23,Customer 20,Furniture,Desk,North,3,961.52,130.44
+AMA-10143,2023-06-24,Customer 7,Office Supplies,Stapler,West,5,425.59,40.75
+AMA-10144,2023-06-25,Customer 53,Office Supplies,Binder,South,2,841.57,107.11
+AMA-10145,2023-06-26,Customer 54,Office Supplies,Binder,North,3,980.32,106.74
+AMA-10146,2023-06-27,Customer 29,Furniture,Sofa,West,1,466.72,19.95
+AMA-10147,2023-06-29,Customer 39,Technology,Laptop,North,6,2926.39,133.45
+AMA-10148,2023-06-30,Customer 59,Office Supplies,Pen Pack,South,3,992.17,72.79
+AMA-10149,2023-07-01,Customer 43,Furniture,Office Chair,North,3,"692.35,00",32.19
+AMA-10150,2023-07-02,Customer 10,Furniture,Bookshelf,West,2,92.9,15.17
+AMA-10151,2023-07-04,Customer 50,Technology,Monitor,South,6,1017.56,89.04
+AMA-10152,2023-07-05,Customer 3,Office Supplies,Binder,North,6,1496.26,235.55
+AMA-10153,2023-07-06,Customer 44,Furniture,Bookshelf,South,5,237.03,33.52
+AMA-10154,2023-07-07,Customer 37,Technology,Laptop,West,7,609.37,64.8
+AMA-10155,2023-07-08,Customer 21,Office Supplies,Pen Pack,East,3,1311.87,93.92
+AMA-10156,2023-07-10,Customer 46,Technology,Monitor,South,1,470.08,29.49
+AMA-10157,2023-07-11,Customer 51,Technology,Laptop,West,5,1614.52,61.82
+AMA-10158,2023-07-12,Customer 31,Furniture,Bookshelf,South,5,,73.6
+AMA-10159,2023-07-13,Customer 29,Furniture,Bookshelf,South,4,1476.71,90.56
+AMA-10160,2023-07-14,Customer 23,Furniture,Bookshelf,East,5,1051.82,40.32
+AMA-10161,2023-07-16,Customer 14,Technology,Printer,East,1,499.19,65.58
+AMA-10162,2023-07-17,Customer 26,Furniture,Sofa,North,1,231.55,29.81
+AMA-10163,2023-07-18,Customer 5,Technology,Monitor,North,2,897.39,46.16
+AMA-10164,2023-07-19,Customer 25,Technology,Printer,South,3,1153.3,157.79
+AMA-10165,2023-07-21,Customer 54,Furniture,Sofa,North,6,1066.28,144.06
+AMA-10166,2023-07-22,Customer 58,Office Supplies,Stapler,South,2,673.97,105.87
+AMA-10167,2023-07-23,Customer 48,Office Supplies,Pen Pack,West,1,163.97,31.62
+AMA-10168,2023-07-24,Customer 30,Office Supplies,Binder,North,3,"362.28,00",21.7
+AMA-10169,2023-07-25,Customer 44,Technology,Printer,West,5,,11.74
+AMA-10170,2023-07-27,Customer 28,Technology,Monitor,West,3,380.09,26.45
+AMA-10171,2023-07-28,Customer 57,Technology,Router,East,1,188.37,15.56
+AMA-10172,2023-07-29,Customer 35,Furniture,Desk,North,3,298.21,23.89
+AMA-10173,2023-07-30,Customer 23,Technology,Printer,South,7,2939.0,220.91
+AMA-10174,2023-08-01,Customer 37,Furniture,Bookshelf,North,2,949.41,55.72
+AMA-10175,2023-08-02,Customer 50,Furniture,Sofa,West,4,1393.23,152.89
+AMA-10176,2023-08-03,Customer 30,Office Supplies,Pen Pack,West,1,64.65,7.6
+AMA-10177,2023-08-04,Customer 5,Office Supplies,Pen Pack,North,6,527.18,81.56
+AMA-10178,2023-08-05,Customer 36,Office Supplies,Paper,North,4,400.35,23.24
+AMA-10179,2023-08-07,Customer 18,Furniture,Sofa,North,5,1389.46,54.6
+AMA-10180,2023-08-08,Customer 29,Furniture,Desk,East,5,193.62,22.61
+AMA-10181,2023-08-09,Customer 31,Furniture,Desk,North,5,2479.9,77.28
+AMA-10182,2023-08-10,Customer 33,Technology,Printer,East,7,3451.62,624.04
+AMA-10183,2023-08-12,Customer 41,Furniture,Bookshelf,East,5,,209.64
+AMA-10184,2023-08-13,Customer 14,Office Supplies,Paper,East,3,690.38,32.25
+AMA-10185,2023-08-14,Customer 43,Office Supplies,Binder,South,5,519.48,70.7
+AMA-10186,2023-08-15,Customer 18,Furniture,Sofa,West,1,839.85,75.1
+AMA-10187,2023-08-16,Customer 42,Furniture,Bookshelf,West,5,167.49,18.06
+AMA-10188,2023-08-18,Customer 39,Office Supplies,Paper,West,6,796.89,141.57
+AMA-10189,2023-08-19,Customer 38,Furniture,Bookshelf,West,2,56.24,3.38
+AMA-10190,2023-08-20,Customer 57,Office Supplies,Binder,North,4,485.95,70.66
+AMA-10191,2023-08-21,Customer 8,Technology,Router,North,4,1045.52,207.06
+AMA-10192,2023-08-22,Customer 42,Office Supplies,Paper,North,6,591.54,39.19
+AMA-10193,2023-08-24,Customer 26,Technology,Laptop,East,6,1209.55,118.42
+AMA-10194,2023-08-25,Customer 4,Furniture,Desk,South,5,1098.79,58.69
+AMA-10195,2023-08-26,Customer 2,Furniture,Desk,North,1,53.63,8.24
+AMA-10196,2023-08-27,Customer 32,Technology,Monitor,South,6,1550.62,63.17
+AMA-10197,2023-08-29,Customer 56,Furniture,Bookshelf,West,1,103.5,11.9
+AMA-10198,2023-08-30,Customer 54,Technology,Monitor,South,5,1383.52,190.84
+AMA-10199,2023-08-31,Customer 6,Furniture,Sofa,North,2,804.54,135.41
+AMA-10200,2023-09-01,Customer 11,Office Supplies,Binder,South,2,644.82,88.05
+AMA-10201,2023-09-02,Customer 44,Furniture,Sofa,South,3,1317.89,116.89
+AMA-10202,2023-09-04,Customer 30,Office Supplies,Paper,West,1,262.9,16.48
+AMA-10203,2023-09-05,Customer 19,Office Supplies,Binder,North,7,1506.76,221.89
+AMA-10204,2023-09-06,Customer 32,Technology,Monitor,West,6,1809.41,115.69
+AMA-10205,2023-09-07,Customer 60,Furniture,Office Chair,East,3,1094.02,82.89
+AMA-10206,2023-09-09,Customer 7,Technology,Router,East,4,1209.79,126.82
+AMA-10207,2023-09-10,Customer 49,Furniture,Office Chair,North,6,1317.01,46.04
+AMA-10208,2023-09-11,Customer 33,Office Supplies,Pen Pack,East,2,508.38,94.05
+AMA-10209,2023-09-12,Customer 33,Office Supplies,Paper,East,1,250.49,19.91
+AMA-10210,2023-09-13,Customer 50,Furniture,Bookshelf,South,2,473.08,53.79
+AMA-10211,2023-09-15,Customer 55,Furniture,Bookshelf,North,2,249.02,21.67
+AMA-10212,2023-09-16,Customer 39,Technology,Printer,South,6,2812.49,146.23
+AMA-10213,2023-09-17,Customer 50,Furniture,Desk,West,5,2331.85,378.36
+AMA-10214,2023-09-18,Customer 15,Furniture,Desk,North,1,244.78,36.91
+AMA-10215,2023-09-20,Customer 38,Furniture,Bookshelf,East,2,406.77,58.29
+AMA-10216,2023-09-21,Customer 49,Technology,Router,West,2,726.3,43.37
+AMA-10217,2023-09-22,Customer 11,Furniture,Office Chair,East,4,635.72,91.85
+AMA-10218,2023-09-23,Customer 18,Office Supplies,Pen Pack,North,1,68.22,4.93
+AMA-10219,2023-09-24,Customer 35,Technology,Router,West,3,827.96,54.69
+AMA-10220,2023-09-26,Customer 54,Technology,Monitor,West,7,279.64,9.32
+AMA-10221,2023-09-27,Customer 32,Office Supplies,Stapler,North,2,367.91,73.46
+AMA-10222,2023-09-28,Customer 40,Office Supplies,Pen Pack,East,3,271.12,42.33
+AMA-10223,2023-09-29,Customer 53,Office Supplies,Binder,North,2,637.65,86.74
+AMA-10224,2023-09-30,Customer 1,Furniture,Office Chair,North,2,"424.34,00",50.26
+AMA-10225,2023-10-02,Customer 28,Office Supplies,Binder,West,7,3155.71,277.86
+AMA-10226,2023-10-03,Customer 39,Furniture,Desk,West,6,2398.97,418.67
+AMA-10227,2023-10-04,Customer 11,Technology,Laptop,North,3,323.37,39.25
+AMA-10228,2023-10-05,Customer 30,Technology,Laptop,East,3,635.51,23.88
+AMA-10229,2023-10-07,Customer 2,Office Supplies,Pen Pack,North,3,1069.96,153.23
+AMA-10230,2023-10-08,Customer 5,Furniture,Office Chair,South,5,2387.96,274.2
+AMA-10231,2023-10-09,Customer 50,Office Supplies,Stapler,West,1,80.28,9.03
+AMA-10232,2023-10-10,Customer 33,Office Supplies,Paper,East,5,1387.66,186.27
+AMA-10233,2023-10-11,Customer 51,Furniture,Office Chair,North,6,1972.02,269.3
+AMA-10234,2023-10-13,Customer 47,Office Supplies,Paper,North,4,309.34,35.67
+AMA-10235,2023-10-14,Customer 54,Technology,Router,West,2,871.79,146.94
+AMA-10236,2023-10-15,Customer 13,Office Supplies,Binder,West,7,,559.26
+AMA-10237,2023-10-16,Customer 48,Furniture,Bookshelf,West,1,439.89,14.39
+AMA-10238,2023-10-18,Customer 60,Furniture,Bookshelf,North,2,381.82,17.73
+AMA-10239,2023-10-19,Customer 16,Technology,Laptop,South,2,725.11,128.58
+AMA-10240,2023-10-20,Customer 60,Furniture,Bookshelf,North,3,476.36,71.01
+AMA-10241,2023-10-21,Customer 14,Furniture,Desk,North,1,299.03,56.56
+AMA-10242,2023-10-22,Customer 17,Technology,Laptop,East,5,960.94,167.39
+AMA-10243,2023-10-24,Customer 13,Office Supplies,Pen Pack,West,6,,418.24
+AMA-10244,2023-10-25,Customer 33,Technology,Printer,North,6,2811.48,198.26
+AMA-10245,2023-10-26,Customer 37,Office Supplies,Pen Pack,West,1,273.33,19.3
+AMA-10246,2023-10-27,Customer 27,Technology,Laptop,East,5,1968.23,161.8
+AMA-10247,2023-10-29,Customer 16,Office Supplies,Binder,East,6,2646.65,280.65
+AMA-10248,2023-10-30,Customer 36,Technology,Printer,East,1,153.49,11.81
+AMA-10249,2023-10-31,Customer 9,Office Supplies,Paper,South,5,1802.31,203.98
+AMA-10250,2023-11-01,Customer 55,Technology,Monitor,North,6,1743.56,225.24
+AMA-10251,2023-11-02,Customer 57,Office Supplies,Paper,South,6,690.81,117.13
+AMA-10252,2023-11-04,Customer 59,Technology,Monitor,West,2,909.68,107.58
+AMA-10253,2023-11-05,Customer 58,Furniture,Sofa,West,5,570.35,88.35
+AMA-10254,2023-11-06,Customer 52,Office Supplies,Pen Pack,West,2,563.03,64.13
+AMA-10255,2023-11-07,Customer 8,Technology,Monitor,West,2,294.45,18.95
+AMA-10256,2023-11-08,Customer 43,Office Supplies,Binder,East,7,3498.19,463.45
+AMA-10257,2023-11-10,Customer 19,Office Supplies,Stapler,East,7,648.25,41.57
+AMA-10258,2023-11-11,Customer 43,Technology,Laptop,South,2,114.38,15.84
+AMA-10259,2023-11-12,Customer 38,Office Supplies,Stapler,South,2,651.91,71.79
+AMA-10260,2023-11-13,Customer 8,Technology,Printer,East,5,2202.24,101.73
+AMA-10261,2023-11-15,Customer 10,Furniture,Bookshelf,South,3,960.13,138.59
+AMA-10262,2023-11-16,Customer 39,Office Supplies,Pen Pack,North,4,200.78,12.95
+AMA-10263,2023-11-17,Customer 15,Furniture,Bookshelf,East,6,511.84,95.68
+AMA-10264,2023-11-18,Customer 23,Office Supplies,Binder,South,4,794.83,84.66
+AMA-10265,2023-11-19,Customer 35,Office Supplies,Paper,East,2,93.69,10.14
+AMA-10266,2023-11-21,Customer 17,Office Supplies,Paper,West,2,,26.72
+AMA-10267,2023-11-22,Customer 12,Technology,Router,West,2,229.78,26.73
+AMA-10268,2023-11-23,Customer 30,Furniture,Sofa,East,4,1942.62,63.46
+AMA-10269,2023-11-24,Customer 24,Office Supplies,Stapler,East,2,170.2,8.03
+AMA-10270,2023-11-26,Customer 40,Technology,Printer,South,3,1409.97,76.15
+AMA-10271,2023-11-27,Customer 12,Office Supplies,Stapler,West,4,481.87,14.56
+AMA-10272,2023-11-28,Customer 11,Technology,Laptop,South,3,996.37,186.85
+AMA-10273,2023-11-29,Customer 14,Office Supplies,Pen Pack,South,2,426.17,62.96
+AMA-10274,2023-11-30,Customer 36,Furniture,Sofa,East,1,390.96,46.3
+AMA-10275,2023-12-02,Customer 26,Furniture,Desk,East,2,274.47,46.0
+AMA-10276,2023-12-03,Customer 14,Office Supplies,Pen Pack,West,6,1126.25,108.5
+AMA-10277,2023-12-04,Customer 28,Technology,Monitor,South,4,121.52,21.06
+AMA-10278,2023-12-05,Customer 11,Office Supplies,Binder,West,7,2706.89,124.85
+AMA-10279,2023-12-07,Customer 58,Technology,Printer,East,3,1251.29,207.17
+AMA-10280,2023-12-08,Customer 44,Office Supplies,Binder,South,7,2789.21,92.25
+AMA-10281,2023-12-09,Customer 51,Technology,Monitor,West,4,247.16,16.47
+AMA-10282,2023-12-10,Customer 30,Furniture,Bookshelf,East,5,2408.03,277.28
+AMA-10283,2023-12-11,Customer 43,Office Supplies,Stapler,South,4,1189.43,223.4
+AMA-10284,2023-12-13,Customer 33,Furniture,Bookshelf,North,4,2739.19,251.94
+AMA-10285,2023-12-14,Customer 44,Furniture,Desk,South,5,2212.1,334.72
+AMA-10286,2023-12-15,Customer 40,Office Supplies,Paper,South,1,133.38,14.26
+AMA-10287,2023-12-16,Customer 35,Office Supplies,Binder,East,7,4935.04,887.38
+AMA-10288,2023-12-17,Customer 55,Technology,Router,South,2,1039.51,109.41
+AMA-10289,2023-12-19,Customer 49,Technology,Monitor,East,6,917.55,84.13
+AMA-10290,2023-12-20,Customer 17,Furniture,Desk,West,6,4381.61,338.17
+AMA-10291,2023-12-21,Customer 29,Technology,Router,North,2,940.98,127.1
+AMA-10292,2023-12-22,Customer 1,Technology,Laptop,North,7,533.33,102.2
+AMA-10293,2023-12-24,Customer 12,Office Supplies,Pen Pack,East,1,578.04,70.22
+AMA-10294,2023-12-25,Customer 26,Technology,Monitor,North,1,91.11,7.17
+AMA-10295,2023-12-26,Customer 13,Furniture,Sofa,East,6,3519.41,149.31
+AMA-10296,2023-12-27,Customer 11,Technology,Printer,North,2,8309.68,302.3
+AMA-10297,2023-12-28,Customer 42,Furniture,Desk,East,2,736.32,140.38
+AMA-10298,2023-12-30,Customer 36,Office Supplies,Pen Pack,East,4,2427.12,260.74
+AMA-10299,2023-12-31,Customer 27,Furniture,Sofa,West,7,3011.15,405.38
+AMA-10300,2024-01-01,Customer 32,Technology,Monitor,West,3,1373.58,208.89
+AMA-10301,2024-01-02,Customer 37,Office Supplies,Paper,East,3,1453.72,86.53
+AMA-10302,2024-01-04,Customer 51,Technology,Monitor,North,7,968.77,112.78
+AMA-10303,2024-01-05,Customer 39,Office Supplies,Stapler,North,2,308.58,43.29
+AMA-10304,2024-01-06,Customer 33,Office Supplies,Binder,East,2,705.66,88.52
+AMA-10305,2024-01-07,Customer 8,Technology,Monitor,West,2,462.98,57.08
+AMA-10306,2024-01-08,Customer 50,Technology,Printer,North,1,439.21,52.2
+AMA-10307,2024-01-10,Customer 38,Office Supplies,Binder,South,1,265.8,17.39
+AMA-10308,2024-01-11,Customer 55,Office Supplies,Binder,West,1,210.11,37.95
+AMA-10309,2024-01-12,Customer 39,Technology,Router,North,6,2314.37,252.49
+AMA-10310,2024-01-13,Customer 38,Furniture,Desk,South,1,301.64,57.64
+AMA-10311,2024-01-15,Customer 32,Technology,Router,North,4,,195.03
+AMA-10312,2024-01-16,Customer 12,Office Supplies,Binder,North,6,337.54,41.84
+AMA-10313,2024-01-17,Customer 59,Technology,Laptop,South,6,2637.61,88.56
+AMA-10314,2024-01-18,Customer 51,Furniture,Desk,West,5,575.7,112.09
+AMA-10315,2024-01-19,Customer 31,Technology,Router,North,4,633.28,126.32
+AMA-10316,2024-01-21,Customer 23,Office Supplies,Paper,South,7,3186.36,486.26
+AMA-10317,2024-01-22,Customer 20,Technology,Monitor,South,4,746.79,134.53
+AMA-10318,2024-01-23,Customer 35,Office Supplies,Pen Pack,South,2,819.01,74.22
+AMA-10319,2024-01-24,Customer 49,Office Supplies,Stapler,East,7,"2714.94,00",288.72
+AMA-10320,2024-01-25,Customer 41,Technology,Printer,East,2,725.4,98.47
+AMA-10321,2024-01-27,Customer 12,Office Supplies,Binder,South,3,242.7,22.13
+AMA-10322,2024-01-28,Customer 47,Office Supplies,Binder,East,2,227.05,39.11
+AMA-10323,2024-01-29,Customer 49,Furniture,Sofa,North,2,619.64,43.68
+AMA-10324,2024-01-30,Customer 21,Furniture,Office Chair,West,7,578.93,39.2
+AMA-10325,2024-02-01,Customer 30,Furniture,Office Chair,North,7,2181.82,69.15
+AMA-10326,2024-02-02,Customer 4,Furniture,Sofa,East,1,390.31,34.86
+AMA-10327,2024-02-03,Customer 24,Office Supplies,Paper,East,4,1583.07,71.95
+AMA-10328,2024-02-04,Customer 13,Technology,Laptop,West,7,2650.71,149.68
+AMA-10329,2024-02-05,Customer 11,Office Supplies,Pen Pack,West,5,1232.08,50.92
+AMA-10330,2024-02-07,Customer 44,Office Supplies,Paper,North,7,2611.16,451.93
+AMA-10331,2024-02-08,Customer 11,Office Supplies,Stapler,North,5,2322.86,435.07
+AMA-10332,2024-02-09,Customer 43,Technology,Monitor,South,7,3124.59,424.88
+AMA-10333,2024-02-10,Customer 57,Furniture,Bookshelf,North,4,1937.27,380.62
+AMA-10334,2024-02-12,Customer 1,Office Supplies,Paper,East,2,522.67,82.34
+AMA-10335,2024-02-13,Customer 37,Office Supplies,Paper,North,4,1204.46,41.44
+AMA-10336,2024-02-14,Customer 17,Furniture,Desk,East,5,227.05,40.83
+AMA-10337,2024-02-15,Customer 25,Office Supplies,Paper,South,6,1281.69,116.06
+AMA-10338,2024-02-16,Customer 13,Technology,Router,North,7,2344.16,294.33
+AMA-10339,2024-02-18,Customer 14,Office Supplies,Binder,North,1,101.32,15.21
+AMA-10340,2024-02-19,Customer 20,Office Supplies,Binder,West,3,601.77,114.41
+AMA-10341,2024-02-20,Customer 60,Furniture,Desk,South,6,1565.24,172.21
+AMA-10342,2024-02-21,Customer 26,Office Supplies,Paper,North,1,139.95,11.38
+AMA-10343,2024-02-23,Customer 49,Office Supplies,Pen Pack,East,7,2656.64,193.51
+AMA-10344,2024-02-24,Customer 17,Technology,Laptop,East,5,1171.25,108.02
+AMA-10345,2024-02-25,Customer 57,Furniture,Desk,North,2,495.73,60.12
+AMA-10346,2024-02-26,Customer 43,Furniture,Sofa,West,3,341.32,24.62
+AMA-10347,2024-02-27,Customer 6,Technology,Printer,North,1,274.6,25.57
+AMA-10348,2024-02-29,Customer 51,Office Supplies,Stapler,West,6,1000.42,112.51
+AMA-10349,2024-03-01,Customer 60,Furniture,Bookshelf,North,2,973.78,143.91
+AMA-10350,2024-03-02,Customer 39,Furniture,Bookshelf,South,4,921.17,131.89
+AMA-10351,2024-03-03,Customer 58,Office Supplies,Stapler,North,1,53.27,6.92
+AMA-10352,2024-03-04,Customer 60,Office Supplies,Paper,South,7,2417.01,275.74
+AMA-10353,2024-03-06,Customer 11,Furniture,Desk,West,4,868.35,54.03
+AMA-10354,2024-03-07,Customer 50,Office Supplies,Paper,South,2,125.22,12.46
+AMA-10355,2024-03-08,Customer 20,Furniture,Bookshelf,West,2,441.25,18.16
+AMA-10356,2024-03-09,Customer 1,Office Supplies,Paper,East,1,294.7,28.28
+AMA-10357,2024-03-11,Customer 21,Office Supplies,Paper,East,7,2682.81,260.43
+AMA-10358,2024-03-12,Customer 33,Technology,Laptop,South,4,1321.02,53.84
+AMA-10359,2024-03-13,Customer 13,Office Supplies,Pen Pack,East,5,1557.93,193.81
+AMA-10360,2024-03-14,Customer 46,Technology,Router,South,3,1321.1,109.11
+AMA-10361,2024-03-15,Customer 58,Office Supplies,Paper,North,2,424.85,52.0
+AMA-10362,2024-03-17,Customer 59,Furniture,Sofa,South,4,1621.83,270.11
+AMA-10363,2024-03-18,Customer 32,Furniture,Sofa,South,1,365.4,61.21
+AMA-10364,2024-03-19,Customer 30,Office Supplies,Stapler,North,7,223.53,18.21
+AMA-10365,2024-03-20,Customer 49,Office Supplies,Stapler,South,4,1613.09,229.78
+AMA-10366,2024-03-22,Customer 4,Furniture,Sofa,North,6,1554.81,81.12
+AMA-10367,2024-03-23,Customer 6,Office Supplies,Pen Pack,North,6,377.3,41.38
+AMA-10368,2024-03-24,Customer 51,Technology,Router,North,3,168.76,6.07
+AMA-10369,2024-03-25,Customer 22,Technology,Router,South,5,"909.66,00",159.94
+AMA-10370,2024-03-26,Customer 60,Technology,Monitor,West,1,127.33,7.18
+AMA-10371,2024-03-28,Customer 13,Technology,Laptop,West,2,946.02,99.45
+AMA-10372,2024-03-29,Customer 58,Technology,Router,North,4,297.43,52.08
+AMA-10373,2024-03-30,Customer 42,Office Supplies,Stapler,North,4,1384.01,276.74
+AMA-10374,2024-03-31,Customer 58,Office Supplies,Paper,North,1,287.78,17.16
+AMA-10375,2024-04-02,Customer 27,Technology,Router,North,7,2951.86,322.0
+AMA-10376,2024-04-03,Customer 33,Office Supplies,Paper,North,6,580.08,113.31
+AMA-10377,2024-04-04,Customer 58,Office Supplies,Stapler,North,4,1952.17,146.28
+AMA-10378,2024-04-05,Customer 21,Technology,Router,West,6,2625.67,348.11
+AMA-10379,2024-04-06,Customer 38,Office Supplies,Pen Pack,West,5,1868.31,242.85
+AMA-10380,2024-04-08,Customer 1,Office Supplies,Pen Pack,South,1,251.31,19.26
+AMA-10381,2024-04-09,Customer 23,Office Supplies,Binder,South,4,1882.34,237.04
+AMA-10382,2024-04-10,Customer 10,Technology,Monitor,North,1,165.68,24.36
+AMA-10383,2024-04-11,Customer 28,Office Supplies,Pen Pack,North,5,2407.87,287.88
+AMA-10384,2024-04-12,Customer 11,Furniture,Office Chair,South,3,964.12,158.14
+AMA-10385,2024-04-14,Customer 9,Furniture,Office Chair,East,5,"1123.16,00",68.0
+AMA-10386,2024-04-15,Customer 31,Technology,Printer,South,4,104.62,12.19
+AMA-10387,2024-04-16,Customer 36,Furniture,Office Chair,West,1,467.6,78.37
+AMA-10388,2024-04-17,Customer 34,Technology,Router,South,6,2928.7,204.42
+AMA-10389,2024-04-19,Customer 32,Furniture,Bookshelf,South,4,489.99,38.85
+AMA-10390,2024-04-20,Customer 15,Furniture,Bookshelf,North,2,531.06,30.06
+AMA-10391,2024-04-21,Customer 59,Furniture,Desk,South,3,1025.44,190.23
+AMA-10392,2024-04-22,Customer 10,Technology,Laptop,South,6,2266.3,142.59
+AMA-10393,2024-04-23,Customer 4,Technology,Printer,East,6,1581.63,108.42
+AMA-10394,2024-04-25,Customer 17,Office Supplies,Binder,East,3,1053.35,90.16
+AMA-10395,2024-04-26,Customer 30,Technology,Monitor,West,3,1488.59,62.85
+AMA-10396,2024-04-27,Customer 19,Furniture,Bookshelf,North,2,821.98,67.05
+AMA-10397,2024-04-28,Customer 2,Furniture,Office Chair,North,1,167.07,19.3
+AMA-10398,2024-04-30,Customer 21,Technology,Laptop,East,2,362.86,37.7
+AMA-10399,2024-05-01,Customer 32,Technology,Printer,South,2,506.21,81.21
+AMA-10400,2024-05-02,Customer 55,Technology,Laptop,South,6,1662.7,313.24
+AMA-10401,2024-05-03,Customer 45,Office Supplies,Stapler,West,3,1272.46,137.81
+AMA-10402,2024-05-04,Customer 18,Furniture,Desk,North,6,2524.51,460.37
+AMA-10403,2024-05-06,Customer 42,Office Supplies,Stapler,West,2,809.48,55.9
+AMA-10404,2024-05-07,Customer 28,Office Supplies,Pen Pack,West,3,965.58,37.56
+AMA-10405,2024-05-08,Customer 17,Furniture,Office Chair,West,1,404.56,40.75
+AMA-10406,2024-05-09,Customer 11,Furniture,Office Chair,West,5,2324.81,138.02
+AMA-10407,2024-05-11,Customer 27,Technology,Router,West,6,1649.86,311.58
+AMA-10408,2024-05-12,Customer 21,Technology,Router,East,4,1712.98,62.91
+AMA-10409,2024-05-13,Customer 12,Office Supplies,Paper,West,2,310.52,14.25
+AMA-10410,2024-05-14,Customer 19,Technology,Router,South,1,45.66,3.83
+AMA-10411,2024-05-15,Customer 10,Technology,Laptop,South,5,1917.25,340.15
+AMA-10412,2024-05-17,Customer 20,Furniture,Office Chair,West,1,54.75,2.91
+AMA-10413,2024-05-18,Customer 59,Furniture,Office Chair,South,2,974.43,179.71
+AMA-10414,2024-05-19,Customer 12,Technology,Router,East,6,2676.12,388.42
+AMA-10415,2024-05-20,Customer 43,Furniture,Desk,South,6,1585.75,304.67
+AMA-10416,2024-05-21,Customer 28,Technology,Monitor,South,6,484.22,84.53
+AMA-10417,2024-05-23,Customer 15,Furniture,Desk,East,6,692.92,96.49
+AMA-10418,2024-05-24,Customer 44,Furniture,Office Chair,South,7,1605.12,144.63
+AMA-10419,2024-05-25,Customer 19,Furniture,Sofa,North,4,452.73,40.73
+AMA-10420,2024-05-26,Customer 57,Furniture,Office Chair,South,7,1158.78,193.31
+AMA-10421,2024-05-28,Customer 45,Technology,Printer,West,7,3321.59,491.46
+AMA-10422,2024-05-29,Customer 36,Office Supplies,Stapler,South,1,298.27,44.73
+AMA-10423,2024-05-30,Customer 1,Furniture,Desk,East,3,115.87,10.74
+AMA-10424,2024-05-31,Customer 56,Technology,Monitor,North,3,602.61,28.45
+AMA-10425,2024-06-01,Customer 37,Technology,Printer,West,2,280.46,37.34
+AMA-10426,2024-06-03,Customer 59,Furniture,Desk,East,1,435.51,18.49
+AMA-10427,2024-06-04,Customer 17,Office Supplies,Binder,West,1,284.33,50.04
+AMA-10428,2024-06-05,Customer 55,Furniture,Office Chair,West,3,770.41,103.91
+AMA-10429,2024-06-06,Customer 51,Technology,Router,West,2,680.04,93.94
+AMA-10430,2024-06-08,Customer 11,Office Supplies,Paper,West,2,842.67,47.3
+AMA-10431,2024-06-09,Customer 25,Technology,Monitor,West,1,396.31,13.1
+AMA-10432,2024-06-10,Customer 25,Furniture,Bookshelf,South,1,350.35,18.58
+AMA-10433,2024-06-11,Customer 5,Office Supplies,Pen Pack,West,3,819.25,62.57
+AMA-10434,2024-06-12,Customer 16,Technology,Printer,South,6,2431.65,239.95
+AMA-10435,2024-06-14,Customer 15,Technology,Laptop,West,4,1078.84,148.61
+AMA-10436,2024-06-15,Customer 15,Technology,Monitor,East,2,72.93,13.65
+AMA-10437,2024-06-16,Customer 8,Furniture,Desk,North,4,910.28,61.58
+AMA-10438,2024-06-17,Customer 4,Office Supplies,Paper,North,1,295.51,45.95
+AMA-10439,2024-06-19,Customer 32,Furniture,Desk,West,5,1076.37,150.88
+AMA-10440,2024-06-20,Customer 24,Furniture,Sofa,North,6,1629.57,72.65
+AMA-10441,2024-06-21,Customer 52,Furniture,Sofa,North,1,382.88,34.71
+AMA-10442,2024-06-22,Customer 29,Office Supplies,Pen Pack,North,6,245.74,47.8
+AMA-10443,2024-06-23,Customer 14,Furniture,Sofa,North,2,960.66,79.89
+AMA-10444,2024-06-25,Customer 41,Furniture,Desk,South,5,687.39,104.8
+AMA-10445,2024-06-26,Customer 50,Furniture,Desk,East,5,1752.16,323.05
+AMA-10446,2024-06-27,Customer 9,Furniture,Sofa,East,5,125.92,23.2
+AMA-10447,2024-06-28,Customer 44,Technology,Laptop,West,3,"1189.36,00",133.14
+AMA-10448,2024-06-29,Customer 49,Furniture,Sofa,South,2,499.55,38.99
+AMA-10449,2024-07-01,Customer 6,Technology,Printer,West,7,1911.21,297.29
+AMA-10450,2024-07-02,Customer 9,Furniture,Office Chair,North,1,492.38,93.94
+AMA-10451,2024-07-03,Customer 31,Office Supplies,Paper,North,1,147.11,23.27
+AMA-10452,2024-07-04,Customer 45,Technology,Printer,South,4,"228.12,00",16.12
+AMA-10453,2024-07-06,Customer 34,Technology,Laptop,South,6,898.6,75.61
+AMA-10454,2024-07-07,Customer 9,Technology,Printer,West,2,597.73,105.78
+AMA-10455,2024-07-08,Customer 51,Technology,Laptop,East,3,1084.02,56.85
+AMA-10456,2024-07-09,Customer 58,Office Supplies,Stapler,West,5,680.23,60.45
+AMA-10457,2024-07-10,Customer 58,Furniture,Office Chair,East,2,132.95,18.74
+AMA-10458,2024-07-12,Customer 36,Technology,Printer,West,1,260.69,13.79
+AMA-10459,2024-07-13,Customer 4,Office Supplies,Pen Pack,North,7,906.42,54.28
+AMA-10460,2024-07-14,Customer 6,Technology,Laptop,North,3,,147.86
+AMA-10461,2024-07-15,Customer 48,Furniture,Office Chair,North,7,2870.78,195.72
+AMA-10462,2024-07-17,Customer 38,Technology,Monitor,West,7,3322.95,392.53
+AMA-10463,2024-07-18,Customer 41,Office Supplies,Stapler,North,5,804.04,79.7
+AMA-10464,2024-07-19,Customer 58,Furniture,Desk,West,2,945.81,71.34
+AMA-10465,2024-07-20,Customer 38,Office Supplies,Binder,South,3,1185.56,179.61
+AMA-10466,2024-07-21,Customer 27,Furniture,Sofa,East,7,1983.41,103.86
+AMA-10467,2024-07-23,Customer 22,Furniture,Office Chair,South,5,712.44,34.7
+AMA-10468,2024-07-24,Customer 18,Furniture,Bookshelf,West,1,289.56,10.95
+AMA-10469,2024-07-25,Customer 31,Technology,Laptop,East,1,196.57,34.93
+AMA-10470,2024-07-26,Customer 15,Office Supplies,Stapler,North,6,2908.16,146.45
+AMA-10471,2024-07-28,Customer 27,Office Supplies,Stapler,West,6,2497.32,441.2
+AMA-10472,2024-07-29,Customer 56,Office Supplies,Stapler,North,1,174.78,13.13
+AMA-10473,2024-07-30,Customer 10,Furniture,Bookshelf,East,1,209.57,7.85
+AMA-10474,2024-07-31,Customer 13,Technology,Router,North,3,1191.36,171.43
+AMA-10475,2024-08-01,Customer 56,Furniture,Office Chair,South,5,1887.68,180.58
+AMA-10476,2024-08-03,Customer 47,Office Supplies,Stapler,West,2,899.82,125.14
+AMA-10477,2024-08-04,Customer 48,Technology,Monitor,South,1,54.43,2.51
+AMA-10478,2024-08-05,Customer 47,Technology,Laptop,North,1,336.34,18.12
+AMA-10479,2024-08-06,Customer 41,Technology,Laptop,North,1,261.95,50.16
+AMA-10480,2024-08-07,Customer 12,Office Supplies,Binder,North,6,2200.44,250.35
+AMA-10481,2024-08-09,Customer 42,Technology,Router,South,3,1349.94,124.06
+AMA-10482,2024-08-10,Customer 56,Technology,Printer,North,6,1935.6,350.18
+AMA-10483,2024-08-11,Customer 20,Furniture,Sofa,West,3,429.62,70.53
+AMA-10484,2024-08-12,Customer 46,Furniture,Bookshelf,North,1,232.09,21.27
+AMA-10485,2024-08-14,Customer 54,Technology,Printer,West,2,622.55,119.1
+AMA-10486,2024-08-15,Customer 17,Technology,Printer,West,4,1246.78,51.82
+AMA-10487,2024-08-16,Customer 10,Furniture,Desk,South,7,2362.95,301.26
+AMA-10488,2024-08-17,Customer 41,Furniture,Sofa,West,3,331.27,29.78
+AMA-10489,2024-08-18,Customer 7,Furniture,Bookshelf,West,4,1850.22,223.35
+AMA-10490,2024-08-20,Customer 36,Office Supplies,Binder,West,7,2927.78,342.95
+AMA-10491,2024-08-21,Customer 41,Office Supplies,Stapler,East,5,1586.96,301.38
+AMA-10492,2024-08-22,Customer 49,Furniture,Office Chair,South,5,132.44,21.09
+AMA-10493,2024-08-23,Customer 45,Technology,Printer,North,7,2548.17,381.62
+AMA-10494,2024-08-25,Customer 36,Furniture,Office Chair,West,2,414.48,38.73
+AMA-10495,2024-08-26,Customer 13,Office Supplies,Paper,North,3,801.12,110.28
+AMA-10496,2024-08-27,Customer 42,Technology,Monitor,South,1,163.2,19.53
+AMA-10497,2024-08-28,Customer 19,Office Supplies,Binder,North,3,1044.15,62.35
+AMA-10498,2024-08-29,Customer 23,Technology,Printer,North,2,596.58,27.51
+AMA-10499,2024-08-31,Customer 33,Office Supplies,Binder,East,7,1311.3,44.84
+AMA-10500,2024-09-01,Customer 47,Technology,Printer,South,5,1443.98,83.21
+AMA-10501,2024-09-02,Customer 6,Technology,Monitor,South,1,351.03,51.74
+AMA-10502,2024-09-03,Customer 54,Technology,Monitor,South,3,786.37,113.11
+AMA-10503,2024-09-05,Customer 55,Technology,Printer,West,7,379.17,40.17
+AMA-10504,2024-09-06,Customer 21,Office Supplies,Binder,North,4,665.29,54.43
+AMA-10505,2024-09-07,Customer 44,Office Supplies,Paper,North,7,530.37,51.11
+AMA-10506,2024-09-08,Customer 51,Technology,Laptop,West,7,2002.45,165.48
+AMA-10507,2024-09-09,Customer 56,Technology,Monitor,South,1,357.44,22.48
+AMA-10508,2024-09-11,Customer 44,Office Supplies,Pen Pack,East,3,1273.85,87.49
+AMA-10509,2024-09-12,Customer 29,Technology,Laptop,West,4,1307.38,206.71
+AMA-10510,2024-09-13,Customer 48,Technology,Laptop,South,5,1799.07,105.42
+AMA-10511,2024-09-14,Customer 31,Technology,Laptop,East,1,277.48,40.26
+AMA-10512,2024-09-15,Customer 29,Furniture,Desk,North,4,1997.9,386.24
+AMA-10513,2024-09-17,Customer 46,Technology,Printer,East,6,1500.83,55.26
+AMA-10514,2024-09-18,Customer 33,Furniture,Sofa,West,1,204.1,35.03
+AMA-10515,2024-09-19,Customer 33,Technology,Monitor,North,6,2475.56,82.7
+AMA-10516,2024-09-20,Customer 33,Office Supplies,Binder,South,2,517.28,63.37
+AMA-10517,2024-09-22,Customer 59,Furniture,Office Chair,East,2,369.25,16.17
+AMA-10518,2024-09-23,Customer 13,Furniture,Office Chair,West,1,345.76,66.67
+AMA-10519,2024-09-24,Customer 7,Technology,Laptop,West,6,434.95,25.64
+AMA-10520,2024-09-25,Customer 32,Technology,Router,South,7,403.22,71.53
+AMA-10521,2024-09-26,Customer 15,Furniture,Office Chair,West,2,561.16,43.19
+AMA-10522,2024-09-28,Customer 58,Office Supplies,Stapler,South,4,1897.05,341.91
+AMA-10523,2024-09-29,Customer 8,Office Supplies,Paper,North,5,2108.63,407.96
+AMA-10524,2024-09-30,Customer 18,Technology,Printer,East,4,1655.51,260.28
+AMA-10525,2024-10-01,Customer 60,Office Supplies,Paper,East,1,197.3,38.09
+AMA-10526,2024-10-03,Customer 3,Office Supplies,Stapler,South,2,734.46,102.0
+AMA-10527,2024-10-04,Customer 21,Technology,Monitor,West,7,540.75,58.16
+AMA-10528,2024-10-05,Customer 21,Office Supplies,Binder,West,4,1594.96,273.11
+AMA-10529,2024-10-06,Customer 33,Technology,Laptop,North,6,296.3,46.59
+AMA-10530,2024-10-07,Customer 17,Furniture,Office Chair,South,6,2365.05,313.69
+AMA-10531,2024-10-09,Customer 18,Technology,Monitor,East,4,865.14,104.01
+AMA-10532,2024-10-10,Customer 57,Furniture,Office Chair,North,5,552.72,70.48
+AMA-10533,2024-10-11,Customer 46,Furniture,Sofa,West,7,2370.34,272.71
+AMA-10534,2024-10-12,Customer 24,Office Supplies,Binder,East,1,419.47,15.27
+AMA-10535,2024-10-14,Customer 20,Office Supplies,Pen Pack,West,1,318.71,10.01
+AMA-10536,2024-10-15,Customer 27,Office Supplies,Stapler,West,3,,210.34
+AMA-10537,2024-10-16,Customer 21,Technology,Router,East,1,365.65,44.2
+AMA-10538,2024-10-17,Customer 8,Office Supplies,Paper,North,5,633.0,26.97
+AMA-10539,2024-10-18,Customer 55,Furniture,Bookshelf,North,2,85.93,15.53
+AMA-10540,2024-10-20,Customer 8,Office Supplies,Stapler,North,1,25.65,2.1
+AMA-10541,2024-10-21,Customer 50,Office Supplies,Pen Pack,South,1,298.51,51.61
+AMA-10542,2024-10-22,Customer 16,Technology,Monitor,West,1,442.82,36.86
+AMA-10543,2024-10-23,Customer 25,Technology,Monitor,West,6,2540.94,269.92
+AMA-10544,2024-10-24,Customer 17,Furniture,Sofa,West,3,1393.84,245.84
+AMA-10545,2024-10-26,Customer 41,Technology,Laptop,West,1,370.17,52.05
+AMA-10546,2024-10-27,Customer 41,Office Supplies,Binder,North,5,1074.66,121.5
+AMA-10547,2024-10-28,Customer 34,Technology,Laptop,West,5,2227.28,83.42
+AMA-10548,2024-10-29,Customer 45,Furniture,Bookshelf,South,3,,26.14
+AMA-10549,2024-10-31,Customer 34,Office Supplies,Binder,North,5,953.86,140.36
+AMA-10550,2024-11-01,Customer 36,Furniture,Desk,South,4,1008.36,42.63
+AMA-10551,2024-11-02,Customer 22,Technology,Laptop,East,3,879.77,54.79
+AMA-10552,2024-11-03,Customer 31,Technology,Laptop,North,3,746.87,114.61
+AMA-10553,2024-11-04,Customer 5,Furniture,Desk,North,1,260.17,9.2
+AMA-10554,2024-11-06,Customer 10,Office Supplies,Paper,South,7,3066.45,183.02
+AMA-10555,2024-11-07,Customer 8,Technology,Monitor,South,4,1093.4,172.08
+AMA-10556,2024-11-08,Customer 13,Technology,Laptop,North,3,444.33,57.11
+AMA-10557,2024-11-09,Customer 3,Office Supplies,Pen Pack,West,7,,26.73
+AMA-10558,2024-11-11,Customer 40,Technology,Router,South,2,844.33,45.64
+AMA-10559,2024-11-12,Customer 43,Furniture,Desk,West,1,469.28,81.47
+AMA-10560,2024-11-13,Customer 33,Technology,Router,West,1,153.08,5.47
+AMA-10561,2024-11-14,Customer 40,Technology,Monitor,South,4,174.39,5.43
+AMA-10562,2024-11-15,Customer 31,Office Supplies,Stapler,East,5,2117.88,220.94
+AMA-10563,2024-11-17,Customer 10,Furniture,Bookshelf,South,5,273.7,40.56
+AMA-10564,2024-11-18,Customer 13,Office Supplies,Stapler,North,4,184.99,5.72
+AMA-10565,2024-11-19,Customer 29,Technology,Printer,West,6,2793.61,285.44
+AMA-10566,2024-11-20,Customer 43,Technology,Monitor,East,6,2442.71,73.61
+AMA-10567,2024-11-22,Customer 16,Office Supplies,Stapler,South,5,2199.05,143.97
+AMA-10568,2024-11-23,Customer 14,Office Supplies,Binder,West,4,392.03,60.81
+AMA-10569,2024-11-24,Customer 32,Office Supplies,Binder,East,2,402.29,62.79
+AMA-10570,2024-11-25,Customer 1,Furniture,Bookshelf,South,4,,16.93
+AMA-10571,2024-11-26,Customer 33,Technology,Router,South,6,1747.29,314.32
+AMA-10572,2024-11-28,Customer 52,Office Supplies,Stapler,South,5,134.88,20.4
+AMA-10573,2024-11-29,Customer 17,Technology,Laptop,East,6,1640.16,77.91
+AMA-10574,2024-11-30,Customer 54,Furniture,Desk,East,1,,67.37
+AMA-10575,2024-12-01,Customer 10,Furniture,Desk,East,7,2153.66,406.07
+AMA-10576,2024-12-02,Customer 36,Furniture,Bookshelf,West,4,2552.05,249.93
+AMA-10577,2024-12-04,Customer 13,Furniture,Bookshelf,South,1,47.44,9.12
+AMA-10578,2024-12-05,Customer 27,Technology,Printer,East,3,,221.62
+AMA-10579,2024-12-06,Customer 33,Furniture,Desk,South,5,342.08,16.97
+AMA-10580,2024-12-07,Customer 28,Furniture,Office Chair,East,2,396.7,26.95
+AMA-10581,2024-12-09,Customer 60,Office Supplies,Paper,East,1,355.11,25.96
+AMA-10582,2024-12-10,Customer 43,Furniture,Office Chair,East,2,870.69,133.81
+AMA-10583,2024-12-11,Customer 30,Office Supplies,Paper,East,3,2053.11,94.77
+AMA-10584,2024-12-12,Customer 50,Furniture,Sofa,West,6,4281.75,460.13
+AMA-10585,2024-12-13,Customer 17,Furniture,Office Chair,South,1,389.89,16.15
+AMA-10586,2024-12-15,Customer 47,Office Supplies,Stapler,West,3,2206.62,408.61
+AMA-10587,2024-12-16,Customer 42,Furniture,Office Chair,South,7,4270.35,226.29
+AMA-10588,2024-12-17,Customer 55,Technology,Printer,West,1,228.15,18.09
+AMA-10589,2024-12-18,Customer 56,Technology,Printer,North,6,2865.33,295.44
+AMA-10590,2024-12-20,Customer 9,Furniture,Sofa,East,3,120.85,16.18
+AMA-10591,2024-12-21,Customer 29,Technology,Monitor,South,4,1885.56,189.91
+AMA-10592,2024-12-22,Customer 26,Office Supplies,Stapler,East,4,1796.11,277.35
+AMA-10593,2024-12-23,Customer 18,Furniture,Desk,East,6,1419.01,235.95
+AMA-10594,2024-12-24,Customer 54,Furniture,Sofa,North,7,2914.16,215.09
+AMA-10595,2024-12-26,Customer 42,Office Supplies,Binder,East,3,756.53,28.37
+AMA-10596,2024-12-27,Customer 24,Office Supplies,Pen Pack,North,7,1680.28,301.96
+AMA-10597,2024-12-28,Customer 3,Office Supplies,Stapler,East,7,2071.78,301.86
+AMA-10598,2024-12-29,Customer 43,Furniture,Desk,North,6,3204.8,193.37
+AMA-10599,2024-12-31,Customer 51,Office Supplies,Binder,East,3,884.61,142.71
+AMA-10446,2024-06-27,Customer 9,Furniture,Sofa,East,5,125.92,23.2
+AMA-10404,2024-05-07,Customer 28,Office Supplies,Pen Pack,West,3,965.58,37.56
+AMA-10509,2024-09-12,Customer 29,Technology,Laptop,West,4,1307.38,206.71
+AMA-10455,2024-07-08,Customer 51,Technology,Laptop,East,3,1084.02,56.85
+AMA-10201,2023-09-02,Customer 44,Furniture,Sofa,South,3,1317.89,116.89

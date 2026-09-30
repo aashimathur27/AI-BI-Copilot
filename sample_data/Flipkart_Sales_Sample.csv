@@ -1,0 +1,606 @@
+Order ID,Order Date,Customer Name,Category,Product Name,Region,Quantity,Sales,Profit
+FLI-10000,2023-01-01,Customer 16,Technology,Laptop,East,3,434.23,20.28
+FLI-10001,2023-01-02,Customer 12,Office Supplies,Binder,North,1,,26.4
+FLI-10002,2023-01-03,Customer 49,Furniture,Desk,North,4,578.86,64.13
+FLI-10003,2023-01-04,Customer 26,Furniture,Sofa,South,4,1120.2,63.06
+FLI-10004,2023-01-05,Customer 21,Furniture,Desk,South,7,2955.34,560.29
+FLI-10005,2023-01-07,Customer 10,Technology,Monitor,West,5,650.71,79.74
+FLI-10006,2023-01-08,Customer 48,Technology,Monitor,South,4,917.4,130.79
+FLI-10007,2023-01-09,Customer 16,Technology,Printer,West,1,232.18,25.52
+FLI-10008,2023-01-10,Customer 10,Technology,Router,North,1,138.62,18.21
+FLI-10009,2023-01-11,Customer 58,Office Supplies,Binder,North,3,308.35,19.74
+FLI-10010,2023-01-13,Customer 4,Furniture,Bookshelf,North,2,628.36,80.24
+FLI-10011,2023-01-14,Customer 9,Office Supplies,Stapler,East,5,2023.83,50.98
+FLI-10012,2023-01-15,Customer 17,Technology,Monitor,South,6,2173.31,205.71
+FLI-10013,2023-01-16,Customer 9,Technology,Laptop,South,2,800.21,151.96
+FLI-10014,2023-01-18,Customer 18,Office Supplies,Pen Pack,East,2,,39.33
+FLI-10015,2023-01-19,Customer 47,Furniture,Office Chair,West,7,1586.6,44.36
+FLI-10016,2023-01-20,Customer 46,Furniture,Bookshelf,East,2,526.96,110.33
+FLI-10017,2023-01-21,Customer 31,Technology,Laptop,North,7,1289.99,209.47
+FLI-10018,2023-01-22,Customer 43,Technology,Laptop,East,7,1875.04,371.38
+FLI-10019,2023-01-24,Customer 47,Technology,Printer,North,3,1084.54,192.04
+FLI-10020,2023-01-25,Customer 1,Technology,Laptop,North,3,342.66,28.39
+FLI-10021,2023-01-26,Customer 58,Furniture,Bookshelf,West,5,385.72,24.68
+FLI-10022,2023-01-27,Customer 46,Office Supplies,Binder,North,5,981.25,56.56
+FLI-10023,2023-01-29,Customer 24,Furniture,Bookshelf,North,6,2505.26,445.47
+FLI-10024,2023-01-30,Customer 45,Office Supplies,Stapler,South,3,599.15,31.59
+FLI-10025,2023-01-31,Customer 34,Technology,Printer,East,7,2496.06,376.31
+FLI-10026,2023-02-01,Customer 42,Technology,Router,East,4,693.64,115.15
+FLI-10027,2023-02-02,Customer 18,Office Supplies,Binder,East,2,532.23,35.61
+FLI-10028,2023-02-04,Customer 31,Technology,Printer,South,4,1721.42,97.76
+FLI-10029,2023-02-05,Customer 33,Furniture,Desk,East,1,224.53,21.36
+FLI-10030,2023-02-06,Customer 31,Technology,Printer,South,6,315.99,18.37
+FLI-10031,2023-02-07,Customer 4,Technology,Laptop,North,3,1211.39,237.27
+FLI-10032,2023-02-08,Customer 17,Technology,Printer,North,4,246.8,39.35
+FLI-10033,2023-02-10,Customer 42,Technology,Monitor,South,2,252.41,18.29
+FLI-10034,2023-02-11,Customer 23,Furniture,Office Chair,North,3,1069.23,169.67
+FLI-10035,2023-02-12,Customer 44,Office Supplies,Stapler,East,1,423.06,82.62
+FLI-10036,2023-02-13,Customer 50,Technology,Router,North,6,775.15,140.85
+FLI-10037,2023-02-15,Customer 25,Technology,Monitor,North,7,132.05,23.72
+FLI-10038,2023-02-16,Customer 14,Furniture,Bookshelf,East,3,439.09,32.76
+FLI-10039,2023-02-17,Customer 2,Furniture,Sofa,East,6,905.64,74.62
+FLI-10040,2023-02-18,Customer 4,Furniture,Bookshelf,West,5,1137.14,214.34
+FLI-10041,2023-02-19,Customer 36,Technology,Router,North,4,1754.32,55.79
+FLI-10042,2023-02-21,Customer 59,Office Supplies,Stapler,West,6,283.45,6.09
+FLI-10043,2023-02-22,Customer 23,Furniture,Desk,North,1,314.11,33.39
+FLI-10044,2023-02-23,Customer 27,Furniture,Desk,West,3,1130.15,28.95
+FLI-10045,2023-02-24,Customer 15,Furniture,Sofa,East,7,954.74,44.11
+FLI-10046,2023-02-26,Customer 21,Office Supplies,Stapler,West,3,221.77,10.63
+FLI-10047,2023-02-27,Customer 10,Technology,Monitor,East,7,1358.08,263.32
+FLI-10048,2023-02-28,Customer 35,Technology,Laptop,West,4,946.55,77.56
+FLI-10049,2023-03-01,Customer 56,Technology,Monitor,North,3,1131.94,174.26
+FLI-10050,2023-03-02,Customer 58,Furniture,Office Chair,South,3,1224.59,163.89
+FLI-10051,2023-03-04,Customer 54,Technology,Laptop,North,3,1196.29,72.04
+FLI-10052,2023-03-05,Customer 43,Furniture,Desk,South,6,1844.51,88.33
+FLI-10053,2023-03-06,Customer 31,Office Supplies,Stapler,West,5,300.11,14.86
+FLI-10054,2023-03-07,Customer 9,Office Supplies,Paper,South,6,624.07,44.05
+FLI-10055,2023-03-09,Customer 25,Technology,Printer,East,2,839.99,24.9
+FLI-10056,2023-03-10,Customer 58,Furniture,Desk,West,7,3037.68,120.11
+FLI-10057,2023-03-11,Customer 24,Furniture,Bookshelf,North,4,1518.38,188.97
+FLI-10058,2023-03-12,Customer 19,Technology,Laptop,West,3,1162.25,158.58
+FLI-10059,2023-03-13,Customer 52,Office Supplies,Paper,East,1,62.21,11.26
+FLI-10060,2023-03-15,Customer 21,Office Supplies,Stapler,North,7,2949.48,87.19
+FLI-10061,2023-03-16,Customer 50,Office Supplies,Paper,East,6,1724.06,47.91
+FLI-10062,2023-03-17,Customer 28,Office Supplies,Paper,West,6,2033.49,404.35
+FLI-10063,2023-03-18,Customer 38,Office Supplies,Pen Pack,South,2,"299.51,00",46.67
+FLI-10064,2023-03-19,Customer 16,Technology,Laptop,West,5,2069.96,156.84
+FLI-10065,2023-03-21,Customer 13,Technology,Monitor,North,2,597.12,21.27
+FLI-10066,2023-03-22,Customer 7,Technology,Router,South,3,292.66,10.93
+FLI-10067,2023-03-23,Customer 29,Office Supplies,Paper,North,6,285.18,28.63
+FLI-10068,2023-03-24,Customer 42,Office Supplies,Paper,North,3,705.98,145.93
+FLI-10069,2023-03-26,Customer 12,Technology,Router,West,2,418.05,86.18
+FLI-10070,2023-03-27,Customer 5,Technology,Monitor,North,3,80.22,13.88
+FLI-10071,2023-03-28,Customer 41,Office Supplies,Binder,South,2,595.98,51.51
+FLI-10072,2023-03-29,Customer 31,Furniture,Desk,South,5,321.25,24.72
+FLI-10073,2023-03-30,Customer 25,Technology,Printer,East,7,2183.46,95.77
+FLI-10074,2023-04-01,Customer 3,Office Supplies,Paper,North,6,170.64,15.74
+FLI-10075,2023-04-02,Customer 4,Office Supplies,Pen Pack,East,2,826.65,63.98
+FLI-10076,2023-04-03,Customer 58,Technology,Router,South,3,"161.77,00",9.76
+FLI-10077,2023-04-04,Customer 54,Furniture,Office Chair,South,5,2144.58,463.92
+FLI-10078,2023-04-06,Customer 47,Office Supplies,Paper,North,5,1677.79,122.64
+FLI-10079,2023-04-07,Customer 14,Technology,Laptop,East,7,1859.69,92.71
+FLI-10080,2023-04-08,Customer 5,Office Supplies,Stapler,South,3,275.67,37.8
+FLI-10081,2023-04-09,Customer 23,Office Supplies,Paper,South,6,518.01,20.69
+FLI-10082,2023-04-10,Customer 57,Office Supplies,Pen Pack,North,6,292.32,39.43
+FLI-10083,2023-04-12,Customer 60,Office Supplies,Stapler,North,6,2343.33,110.08
+FLI-10084,2023-04-13,Customer 29,Furniture,Office Chair,South,6,1530.46,88.67
+FLI-10085,2023-04-14,Customer 45,Technology,Monitor,West,1,63.03,1.5
+FLI-10086,2023-04-15,Customer 37,Technology,Router,North,1,158.7,10.27
+FLI-10087,2023-04-17,Customer 15,Technology,Laptop,South,1,217.4,47.16
+FLI-10088,2023-04-18,Customer 50,Technology,Printer,South,3,1208.2,206.71
+FLI-10089,2023-04-19,Customer 24,Technology,Monitor,South,7,658.66,40.92
+FLI-10090,2023-04-20,Customer 44,Furniture,Sofa,North,7,,134.73
+FLI-10091,2023-04-21,Customer 52,Office Supplies,Pen Pack,West,4,617.16,81.83
+FLI-10092,2023-04-23,Customer 24,Office Supplies,Binder,North,3,236.55,13.57
+FLI-10093,2023-04-24,Customer 29,Technology,Router,South,5,1325.68,170.01
+FLI-10094,2023-04-25,Customer 24,Office Supplies,Binder,West,7,1784.94,283.67
+FLI-10095,2023-04-26,Customer 12,Office Supplies,Pen Pack,East,1,320.35,32.42
+FLI-10096,2023-04-27,Customer 2,Office Supplies,Paper,West,2,282.66,22.43
+FLI-10097,2023-04-29,Customer 3,Technology,Laptop,South,3,882.09,163.97
+FLI-10098,2023-04-30,Customer 36,Technology,Router,North,6,366.73,31.06
+FLI-10099,2023-05-01,Customer 11,Furniture,Bookshelf,South,2,887.79,40.11
+FLI-10100,2023-05-02,Customer 47,Technology,Monitor,North,7,,85.13
+FLI-10101,2023-05-04,Customer 15,Furniture,Office Chair,North,4,1202.99,149.44
+FLI-10102,2023-05-05,Customer 17,Technology,Printer,South,2,436.44,41.02
+FLI-10103,2023-05-06,Customer 38,Office Supplies,Stapler,West,4,1255.07,208.82
+FLI-10104,2023-05-07,Customer 37,Furniture,Bookshelf,South,3,657.36,90.77
+FLI-10105,2023-05-08,Customer 15,Furniture,Desk,North,1,"76.22,00",1.67
+FLI-10106,2023-05-10,Customer 58,Furniture,Desk,West,4,354.97,66.77
+FLI-10107,2023-05-11,Customer 34,Technology,Monitor,East,3,1168.25,180.79
+FLI-10108,2023-05-12,Customer 51,Furniture,Office Chair,South,1,45.27,9.46
+FLI-10109,2023-05-13,Customer 37,Technology,Laptop,South,5,445.69,81.6
+FLI-10110,2023-05-15,Customer 38,Furniture,Desk,East,4,1480.53,71.3
+FLI-10111,2023-05-16,Customer 53,Technology,Laptop,South,1,48.62,6.83
+FLI-10112,2023-05-17,Customer 57,Furniture,Sofa,South,6,996.11,177.85
+FLI-10113,2023-05-18,Customer 36,Office Supplies,Binder,East,1,143.83,6.57
+FLI-10114,2023-05-19,Customer 36,Office Supplies,Stapler,South,3,1106.41,164.82
+FLI-10115,2023-05-21,Customer 33,Furniture,Sofa,South,5,1649.69,81.47
+FLI-10116,2023-05-22,Customer 22,Technology,Router,South,2,736.39,52.52
+FLI-10117,2023-05-23,Customer 51,Technology,Monitor,South,1,417.81,88.34
+FLI-10118,2023-05-24,Customer 41,Technology,Router,South,6,2369.49,112.31
+FLI-10119,2023-05-26,Customer 20,Office Supplies,Pen Pack,East,5,618.52,63.18
+FLI-10120,2023-05-27,Customer 55,Office Supplies,Pen Pack,North,3,721.23,100.79
+FLI-10121,2023-05-28,Customer 49,Office Supplies,Stapler,South,6,94.5,12.77
+FLI-10122,2023-05-29,Customer 37,Technology,Monitor,East,7,2829.4,386.34
+FLI-10123,2023-05-30,Customer 59,Technology,Router,South,5,1183.76,73.13
+FLI-10124,2023-06-01,Customer 6,Technology,Router,West,3,610.54,66.02
+FLI-10125,2023-06-02,Customer 7,Furniture,Office Chair,East,4,952.99,182.14
+FLI-10126,2023-06-03,Customer 56,Furniture,Office Chair,North,7,3013.85,239.81
+FLI-10127,2023-06-04,Customer 2,Furniture,Sofa,South,1,376.86,69.97
+FLI-10128,2023-06-05,Customer 36,Office Supplies,Pen Pack,South,3,983.05,206.22
+FLI-10129,2023-06-07,Customer 51,Office Supplies,Pen Pack,North,2,425.88,44.49
+FLI-10130,2023-06-08,Customer 7,Technology,Laptop,West,4,1275.83,73.25
+FLI-10131,2023-06-09,Customer 56,Furniture,Sofa,East,1,122.58,18.06
+FLI-10132,2023-06-10,Customer 45,Technology,Laptop,North,2,526.19,17.86
+FLI-10133,2023-06-12,Customer 7,Furniture,Office Chair,North,7,2248.23,50.65
+FLI-10134,2023-06-13,Customer 26,Furniture,Desk,East,3,283.29,35.9
+FLI-10135,2023-06-14,Customer 50,Technology,Monitor,North,3,964.81,42.88
+FLI-10136,2023-06-15,Customer 2,Technology,Printer,West,5,1109.86,200.91
+FLI-10137,2023-06-16,Customer 55,Furniture,Bookshelf,South,4,475.34,63.1
+FLI-10138,2023-06-18,Customer 32,Furniture,Bookshelf,South,3,1057.65,218.83
+FLI-10139,2023-06-19,Customer 10,Office Supplies,Binder,South,5,248.63,52.64
+FLI-10140,2023-06-20,Customer 7,Technology,Laptop,West,6,2665.82,504.26
+FLI-10141,2023-06-21,Customer 55,Technology,Router,South,3,"243.89,00",41.0
+FLI-10142,2023-06-23,Customer 1,Technology,Monitor,North,6,890.41,99.41
+FLI-10143,2023-06-24,Customer 8,Technology,Router,South,6,1284.41,278.1
+FLI-10144,2023-06-25,Customer 56,Furniture,Desk,East,2,888.53,93.03
+FLI-10145,2023-06-26,Customer 36,Office Supplies,Pen Pack,North,2,635.82,47.27
+FLI-10146,2023-06-27,Customer 40,Technology,Monitor,East,3,1090.29,93.51
+FLI-10147,2023-06-29,Customer 58,Furniture,Office Chair,East,1,32.52,4.94
+FLI-10148,2023-06-30,Customer 54,Furniture,Sofa,South,3,270.92,47.12
+FLI-10149,2023-07-01,Customer 55,Furniture,Sofa,North,5,2143.38,368.88
+FLI-10150,2023-07-02,Customer 30,Furniture,Desk,South,5,804.1,124.32
+FLI-10151,2023-07-04,Customer 9,Furniture,Sofa,North,3,288.21,22.95
+FLI-10152,2023-07-05,Customer 24,Technology,Monitor,South,7,1922.5,286.48
+FLI-10153,2023-07-06,Customer 22,Technology,Laptop,East,4,1409.4,52.83
+FLI-10154,2023-07-07,Customer 25,Office Supplies,Pen Pack,West,4,245.48,6.46
+FLI-10155,2023-07-08,Customer 4,Technology,Router,East,1,295.93,9.65
+FLI-10156,2023-07-10,Customer 58,Furniture,Bookshelf,West,3,387.08,55.17
+FLI-10157,2023-07-11,Customer 16,Office Supplies,Binder,South,7,1344.82,191.1
+FLI-10158,2023-07-12,Customer 16,Furniture,Desk,North,1,40.23,7.46
+FLI-10159,2023-07-13,Customer 7,Furniture,Desk,South,6,2572.35,305.02
+FLI-10160,2023-07-14,Customer 23,Technology,Printer,North,4,1398.72,163.05
+FLI-10161,2023-07-16,Customer 40,Furniture,Sofa,North,6,2689.19,240.66
+FLI-10162,2023-07-17,Customer 41,Technology,Printer,South,3,506.38,76.49
+FLI-10163,2023-07-18,Customer 50,Furniture,Office Chair,West,4,,298.38
+FLI-10164,2023-07-19,Customer 37,Office Supplies,Paper,South,2,887.35,114.34
+FLI-10165,2023-07-21,Customer 32,Furniture,Bookshelf,East,1,233.97,50.13
+FLI-10166,2023-07-22,Customer 21,Technology,Monitor,West,5,968.8,162.82
+FLI-10167,2023-07-23,Customer 22,Furniture,Office Chair,East,1,173.31,4.86
+FLI-10168,2023-07-24,Customer 21,Technology,Monitor,West,5,1927.84,264.15
+FLI-10169,2023-07-25,Customer 57,Technology,Printer,South,2,613.52,75.47
+FLI-10170,2023-07-27,Customer 45,Office Supplies,Pen Pack,South,7,2890.61,299.85
+FLI-10171,2023-07-28,Customer 17,Technology,Laptop,West,2,518.76,80.12
+FLI-10172,2023-07-29,Customer 41,Office Supplies,Paper,East,1,32.37,2.2
+FLI-10173,2023-07-30,Customer 60,Office Supplies,Paper,South,2,679.25,110.81
+FLI-10174,2023-08-01,Customer 26,Furniture,Office Chair,North,4,1709.33,188.44
+FLI-10175,2023-08-02,Customer 56,Office Supplies,Pen Pack,South,1,21.51,0.57
+FLI-10176,2023-08-03,Customer 7,Technology,Router,North,3,516.88,43.68
+FLI-10177,2023-08-04,Customer 38,Technology,Laptop,East,2,119.99,23.01
+FLI-10178,2023-08-05,Customer 11,Office Supplies,Binder,North,5,1100.23,24.77
+FLI-10179,2023-08-07,Customer 60,Furniture,Bookshelf,North,6,2378.94,250.64
+FLI-10180,2023-08-08,Customer 3,Office Supplies,Binder,North,6,1031.71,168.91
+FLI-10181,2023-08-09,Customer 17,Office Supplies,Paper,East,7,287.64,42.46
+FLI-10182,2023-08-10,Customer 9,Technology,Laptop,South,5,595.84,121.5
+FLI-10183,2023-08-12,Customer 7,Furniture,Desk,South,7,,60.24
+FLI-10184,2023-08-13,Customer 46,Furniture,Office Chair,West,3,1029.66,46.63
+FLI-10185,2023-08-14,Customer 12,Furniture,Office Chair,North,2,253.6,33.05
+FLI-10186,2023-08-15,Customer 24,Furniture,Desk,South,5,165.49,28.42
+FLI-10187,2023-08-16,Customer 30,Technology,Printer,North,2,192.72,38.13
+FLI-10188,2023-08-18,Customer 6,Furniture,Sofa,North,4,732.98,117.18
+FLI-10189,2023-08-19,Customer 22,Furniture,Desk,West,7,541.5,26.07
+FLI-10190,2023-08-20,Customer 13,Furniture,Bookshelf,South,6,619.02,64.25
+FLI-10191,2023-08-21,Customer 17,Technology,Printer,West,6,209.02,28.89
+FLI-10192,2023-08-22,Customer 4,Technology,Printer,North,2,545.65,84.8
+FLI-10193,2023-08-24,Customer 20,Furniture,Desk,West,5,2110.74,120.98
+FLI-10194,2023-08-25,Customer 33,Technology,Router,East,1,125.29,21.75
+FLI-10195,2023-08-26,Customer 48,Office Supplies,Binder,West,6,563.92,91.21
+FLI-10196,2023-08-27,Customer 46,Furniture,Sofa,South,4,905.14,115.12
+FLI-10197,2023-08-29,Customer 27,Technology,Laptop,East,5,2199.82,260.79
+FLI-10198,2023-08-30,Customer 60,Furniture,Office Chair,East,5,1552.51,175.24
+FLI-10199,2023-08-31,Customer 41,Furniture,Office Chair,West,5,676.76,132.55
+FLI-10200,2023-09-01,Customer 23,Technology,Router,East,5,1324.62,75.38
+FLI-10201,2023-09-02,Customer 50,Office Supplies,Pen Pack,East,4,606.04,76.63
+FLI-10202,2023-09-04,Customer 34,Furniture,Bookshelf,East,6,1069.78,92.91
+FLI-10203,2023-09-05,Customer 26,Office Supplies,Paper,East,6,1762.02,112.22
+FLI-10204,2023-09-06,Customer 22,Technology,Monitor,North,4,662.72,124.08
+FLI-10205,2023-09-07,Customer 20,Furniture,Sofa,East,7,1677.78,315.98
+FLI-10206,2023-09-09,Customer 44,Technology,Laptop,East,7,933.2,119.17
+FLI-10207,2023-09-10,Customer 16,Technology,Monitor,North,3,1243.39,148.84
+FLI-10208,2023-09-11,Customer 4,Technology,Router,West,7,2012.83,55.03
+FLI-10209,2023-09-12,Customer 2,Technology,Printer,East,1,354.17,44.25
+FLI-10210,2023-09-13,Customer 1,Furniture,Bookshelf,South,2,297.48,15.95
+FLI-10211,2023-09-15,Customer 60,Office Supplies,Pen Pack,South,2,617.8,31.85
+FLI-10212,2023-09-16,Customer 12,Office Supplies,Stapler,East,7,2107.07,155.66
+FLI-10213,2023-09-17,Customer 7,Furniture,Sofa,East,2,207.17,28.36
+FLI-10214,2023-09-18,Customer 30,Furniture,Office Chair,South,1,412.68,29.31
+FLI-10215,2023-09-20,Customer 44,Office Supplies,Pen Pack,South,6,236.24,41.68
+FLI-10216,2023-09-21,Customer 10,Office Supplies,Binder,North,6,1482.7,49.3
+FLI-10217,2023-09-22,Customer 24,Furniture,Desk,South,7,1150.79,102.54
+FLI-10218,2023-09-23,Customer 25,Technology,Printer,West,5,2066.25,104.49
+FLI-10219,2023-09-24,Customer 3,Furniture,Desk,South,5,2103.03,447.6
+FLI-10220,2023-09-26,Customer 57,Office Supplies,Paper,South,6,1503.14,187.36
+FLI-10221,2023-09-27,Customer 38,Technology,Printer,South,1,170.41,25.76
+FLI-10222,2023-09-28,Customer 4,Office Supplies,Stapler,South,7,450.3,58.62
+FLI-10223,2023-09-29,Customer 40,Technology,Monitor,West,1,273.17,34.24
+FLI-10224,2023-09-30,Customer 15,Office Supplies,Binder,East,6,505.67,87.13
+FLI-10225,2023-10-02,Customer 13,Technology,Laptop,East,1,"263.23,00",35.18
+FLI-10226,2023-10-03,Customer 19,Furniture,Bookshelf,North,5,843.11,136.98
+FLI-10227,2023-10-04,Customer 52,Furniture,Bookshelf,South,6,2333.09,237.93
+FLI-10228,2023-10-05,Customer 25,Technology,Router,South,4,1345.09,224.9
+FLI-10229,2023-10-07,Customer 13,Technology,Router,West,3,1214.06,117.69
+FLI-10230,2023-10-08,Customer 2,Furniture,Sofa,East,6,2112.36,263.48
+FLI-10231,2023-10-09,Customer 57,Furniture,Desk,North,5,1065.94,107.11
+FLI-10232,2023-10-10,Customer 55,Technology,Printer,East,3,1137.21,111.52
+FLI-10233,2023-10-11,Customer 31,Technology,Printer,East,6,,459.01
+FLI-10234,2023-10-13,Customer 24,Furniture,Sofa,South,2,515.2,23.81
+FLI-10235,2023-10-14,Customer 24,Office Supplies,Stapler,West,6,755.01,24.41
+FLI-10236,2023-10-15,Customer 13,Furniture,Sofa,West,4,831.32,141.86
+FLI-10237,2023-10-16,Customer 4,Technology,Router,West,4,643.33,115.06
+FLI-10238,2023-10-18,Customer 20,Technology,Laptop,West,2,449.53,35.68
+FLI-10239,2023-10-19,Customer 34,Office Supplies,Paper,North,7,1685.63,172.03
+FLI-10240,2023-10-20,Customer 30,Furniture,Sofa,South,2,393.43,52.28
+FLI-10241,2023-10-21,Customer 15,Technology,Monitor,West,4,684.85,67.78
+FLI-10242,2023-10-22,Customer 45,Furniture,Office Chair,South,3,456.79,45.62
+FLI-10243,2023-10-24,Customer 51,Technology,Monitor,North,5,1604.33,182.36
+FLI-10244,2023-10-25,Customer 17,Office Supplies,Stapler,North,7,743.17,140.07
+FLI-10245,2023-10-26,Customer 22,Furniture,Desk,West,5,766.82,127.59
+FLI-10246,2023-10-27,Customer 50,Furniture,Sofa,West,6,2024.22,210.48
+FLI-10247,2023-10-29,Customer 21,Office Supplies,Binder,North,4,495.58,86.65
+FLI-10248,2023-10-30,Customer 20,Technology,Monitor,North,2,"389.5,00",10.45
+FLI-10249,2023-10-31,Customer 25,Technology,Router,North,4,549.89,57.17
+FLI-10250,2023-11-01,Customer 28,Furniture,Desk,South,4,1571.5,320.75
+FLI-10251,2023-11-02,Customer 13,Office Supplies,Paper,South,4,188.86,6.63
+FLI-10252,2023-11-04,Customer 10,Furniture,Sofa,West,5,6267.95,297.37
+FLI-10253,2023-11-05,Customer 36,Furniture,Office Chair,South,7,683.81,124.31
+FLI-10254,2023-11-06,Customer 4,Technology,Router,North,5,678.2,48.5
+FLI-10255,2023-11-07,Customer 7,Technology,Monitor,East,7,2915.54,127.31
+FLI-10256,2023-11-08,Customer 20,Technology,Laptop,North,5,1675.92,230.9
+FLI-10257,2023-11-10,Customer 7,Technology,Router,North,6,1486.63,35.18
+FLI-10258,2023-11-11,Customer 30,Technology,Printer,South,3,211.51,25.49
+FLI-10259,2023-11-12,Customer 2,Office Supplies,Stapler,South,3,1254.19,219.07
+FLI-10260,2023-11-13,Customer 19,Furniture,Office Chair,North,4,679.62,40.92
+FLI-10261,2023-11-15,Customer 47,Office Supplies,Paper,West,4,1321.21,39.42
+FLI-10262,2023-11-16,Customer 58,Furniture,Bookshelf,North,4,,39.43
+FLI-10263,2023-11-17,Customer 21,Technology,Monitor,North,7,2761.49,516.83
+FLI-10264,2023-11-18,Customer 14,Office Supplies,Stapler,West,4,480.77,93.99
+FLI-10265,2023-11-19,Customer 41,Furniture,Sofa,West,6,503.4,43.52
+FLI-10266,2023-11-21,Customer 21,Technology,Monitor,South,7,867.47,53.52
+FLI-10267,2023-11-22,Customer 26,Technology,Router,South,2,802.26,48.98
+FLI-10268,2023-11-23,Customer 47,Office Supplies,Stapler,North,6,957.4,208.8
+FLI-10269,2023-11-24,Customer 33,Office Supplies,Pen Pack,West,1,,66.24
+FLI-10270,2023-11-26,Customer 33,Office Supplies,Pen Pack,West,3,806.32,54.42
+FLI-10271,2023-11-27,Customer 38,Technology,Printer,North,6,2692.62,81.45
+FLI-10272,2023-11-28,Customer 24,Furniture,Bookshelf,South,6,491.09,65.09
+FLI-10273,2023-11-29,Customer 43,Furniture,Sofa,South,3,1014.34,156.43
+FLI-10274,2023-11-30,Customer 49,Office Supplies,Paper,North,3,133.16,9.73
+FLI-10275,2023-12-02,Customer 56,Furniture,Desk,West,3,1976.88,397.36
+FLI-10276,2023-12-03,Customer 56,Technology,Printer,East,1,664.31,85.43
+FLI-10277,2023-12-04,Customer 42,Furniture,Office Chair,East,2,888.88,186.22
+FLI-10278,2023-12-05,Customer 4,Technology,Monitor,East,1,531.68,60.81
+FLI-10279,2023-12-07,Customer 43,Office Supplies,Paper,North,7,4020.24,596.35
+FLI-10280,2023-12-08,Customer 21,Furniture,Bookshelf,East,2,132.96,15.84
+FLI-10281,2023-12-09,Customer 51,Technology,Monitor,West,3,1307.38,220.65
+FLI-10282,2023-12-10,Customer 3,Office Supplies,Pen Pack,West,2,1189.68,59.87
+FLI-10283,2023-12-11,Customer 21,Office Supplies,Binder,North,2,331.84,38.99
+FLI-10284,2023-12-13,Customer 7,Office Supplies,Paper,North,7,"3944.05,00",356.15
+FLI-10285,2023-12-14,Customer 39,Office Supplies,Stapler,South,2,90.48,13.93
+FLI-10286,2023-12-15,Customer 24,Furniture,Bookshelf,West,6,1888.06,342.68
+FLI-10287,2023-12-16,Customer 18,Technology,Printer,East,2,742.98,82.77
+FLI-10288,2023-12-17,Customer 24,Furniture,Bookshelf,North,4,"1444.97,00",36.61
+FLI-10289,2023-12-19,Customer 39,Technology,Monitor,East,3,896.79,176.27
+FLI-10290,2023-12-20,Customer 28,Office Supplies,Stapler,West,1,304.2,51.36
+FLI-10291,2023-12-21,Customer 46,Furniture,Desk,West,5,1103.59,219.48
+FLI-10292,2023-12-22,Customer 21,Office Supplies,Paper,North,6,2135.7,193.87
+FLI-10293,2023-12-24,Customer 52,Technology,Monitor,North,3,1236.04,208.24
+FLI-10294,2023-12-25,Customer 46,Office Supplies,Paper,West,3,2079.79,53.03
+FLI-10295,2023-12-26,Customer 58,Furniture,Sofa,East,2,"1394.39,00",226.31
+FLI-10296,2023-12-27,Customer 27,Furniture,Office Chair,West,1,520.45,108.08
+FLI-10297,2023-12-28,Customer 6,Technology,Monitor,North,2,975.82,117.87
+FLI-10298,2023-12-30,Customer 1,Technology,Monitor,South,7,1920.69,208.02
+FLI-10299,2023-12-31,Customer 13,Furniture,Sofa,South,5,1149.77,33.88
+FLI-10300,2024-01-01,Customer 50,Furniture,Sofa,East,3,549.97,22.94
+FLI-10301,2024-01-02,Customer 7,Furniture,Sofa,East,2,835.94,65.13
+FLI-10302,2024-01-04,Customer 36,Furniture,Desk,East,1,258.43,45.21
+FLI-10303,2024-01-05,Customer 41,Technology,Router,South,7,745.31,129.52
+FLI-10304,2024-01-06,Customer 3,Furniture,Office Chair,East,6,2645.59,223.62
+FLI-10305,2024-01-07,Customer 57,Technology,Monitor,North,6,1078.42,97.51
+FLI-10306,2024-01-08,Customer 8,Furniture,Desk,South,4,1168.2,118.58
+FLI-10307,2024-01-10,Customer 36,Furniture,Office Chair,East,1,189.53,10.53
+FLI-10308,2024-01-11,Customer 12,Office Supplies,Paper,North,4,1640.19,51.88
+FLI-10309,2024-01-12,Customer 16,Office Supplies,Paper,South,7,2725.84,198.58
+FLI-10310,2024-01-13,Customer 44,Furniture,Sofa,North,7,2963.9,334.84
+FLI-10311,2024-01-15,Customer 20,Technology,Router,West,6,475.25,61.34
+FLI-10312,2024-01-16,Customer 43,Furniture,Desk,East,5,1422.77,312.5
+FLI-10313,2024-01-17,Customer 35,Office Supplies,Binder,South,1,178.47,38.86
+FLI-10314,2024-01-18,Customer 51,Furniture,Office Chair,North,3,754.32,122.59
+FLI-10315,2024-01-19,Customer 5,Office Supplies,Pen Pack,East,2,732.97,67.79
+FLI-10316,2024-01-21,Customer 35,Furniture,Sofa,West,7,1679.31,238.67
+FLI-10317,2024-01-22,Customer 34,Furniture,Bookshelf,South,3,1066.8,142.02
+FLI-10318,2024-01-23,Customer 5,Technology,Router,East,4,1508.14,312.63
+FLI-10319,2024-01-24,Customer 25,Office Supplies,Paper,West,6,566.58,101.44
+FLI-10320,2024-01-25,Customer 20,Office Supplies,Stapler,South,7,1957.33,130.46
+FLI-10321,2024-01-27,Customer 17,Office Supplies,Binder,South,7,1344.57,74.62
+FLI-10322,2024-01-28,Customer 34,Technology,Laptop,South,3,,147.33
+FLI-10323,2024-01-29,Customer 1,Furniture,Bookshelf,North,7,1328.21,118.04
+FLI-10324,2024-01-30,Customer 54,Technology,Laptop,South,3,955.41,65.28
+FLI-10325,2024-02-01,Customer 52,Furniture,Sofa,North,5,550.34,102.57
+FLI-10326,2024-02-02,Customer 36,Technology,Router,West,1,114.32,5.95
+FLI-10327,2024-02-03,Customer 48,Technology,Router,North,2,840.17,183.73
+FLI-10328,2024-02-04,Customer 47,Office Supplies,Binder,East,2,497.53,93.35
+FLI-10329,2024-02-05,Customer 33,Technology,Monitor,North,3,542.13,95.71
+FLI-10330,2024-02-07,Customer 49,Furniture,Sofa,South,3,323.14,42.23
+FLI-10331,2024-02-08,Customer 57,Technology,Monitor,South,2,327.28,10.32
+FLI-10332,2024-02-09,Customer 33,Technology,Laptop,North,6,2472.57,462.24
+FLI-10333,2024-02-10,Customer 25,Furniture,Desk,West,5,1014.28,163.48
+FLI-10334,2024-02-12,Customer 23,Office Supplies,Stapler,East,2,162.34,30.32
+FLI-10335,2024-02-13,Customer 8,Furniture,Desk,East,3,1316.3,29.52
+FLI-10336,2024-02-14,Customer 13,Furniture,Bookshelf,South,6,449.67,62.75
+FLI-10337,2024-02-15,Customer 10,Furniture,Desk,East,7,1666.87,49.75
+FLI-10338,2024-02-16,Customer 1,Technology,Laptop,East,6,2290.52,378.28
+FLI-10339,2024-02-18,Customer 51,Technology,Laptop,South,5,948.58,168.96
+FLI-10340,2024-02-19,Customer 53,Furniture,Bookshelf,East,1,32.63,3.42
+FLI-10341,2024-02-20,Customer 36,Furniture,Bookshelf,East,1,102.22,20.9
+FLI-10342,2024-02-21,Customer 9,Office Supplies,Pen Pack,West,3,1274.08,208.13
+FLI-10343,2024-02-23,Customer 48,Technology,Printer,West,1,405.56,34.01
+FLI-10344,2024-02-24,Customer 18,Technology,Router,South,5,2076.59,207.23
+FLI-10345,2024-02-25,Customer 3,Technology,Laptop,North,7,2189.15,262.25
+FLI-10346,2024-02-26,Customer 39,Technology,Printer,South,1,420.54,80.34
+FLI-10347,2024-02-27,Customer 38,Furniture,Desk,West,7,1048.96,31.45
+FLI-10348,2024-02-29,Customer 30,Furniture,Desk,South,3,948.05,27.21
+FLI-10349,2024-03-01,Customer 42,Office Supplies,Stapler,North,2,339.45,49.31
+FLI-10350,2024-03-02,Customer 39,Technology,Printer,North,2,843.49,29.79
+FLI-10351,2024-03-03,Customer 50,Technology,Router,West,1,139.17,27.29
+FLI-10352,2024-03-04,Customer 21,Furniture,Office Chair,North,1,208.71,26.83
+FLI-10353,2024-03-06,Customer 16,Office Supplies,Pen Pack,West,4,99.88,13.59
+FLI-10354,2024-03-07,Customer 45,Furniture,Bookshelf,West,1,214.03,45.35
+FLI-10355,2024-03-08,Customer 20,Technology,Monitor,South,2,342.25,46.06
+FLI-10356,2024-03-09,Customer 39,Technology,Laptop,South,1,222.52,14.6
+FLI-10357,2024-03-11,Customer 20,Office Supplies,Paper,West,1,88.76,17.91
+FLI-10358,2024-03-12,Customer 13,Furniture,Office Chair,East,7,2049.31,291.4
+FLI-10359,2024-03-13,Customer 37,Technology,Router,East,2,77.62,11.69
+FLI-10360,2024-03-14,Customer 49,Technology,Printer,South,4,203.48,19.84
+FLI-10361,2024-03-15,Customer 12,Office Supplies,Paper,North,1,278.62,10.84
+FLI-10362,2024-03-17,Customer 8,Technology,Printer,South,1,369.56,47.17
+FLI-10363,2024-03-18,Customer 3,Technology,Router,East,1,231.89,39.5
+FLI-10364,2024-03-19,Customer 45,Furniture,Bookshelf,East,7,2570.7,370.67
+FLI-10365,2024-03-20,Customer 31,Office Supplies,Paper,East,1,432.86,59.68
+FLI-10366,2024-03-22,Customer 49,Office Supplies,Stapler,South,2,764.57,100.69
+FLI-10367,2024-03-23,Customer 54,Office Supplies,Pen Pack,North,1,142.03,21.01
+FLI-10368,2024-03-24,Customer 49,Furniture,Sofa,East,2,105.26,11.87
+FLI-10369,2024-03-25,Customer 9,Office Supplies,Stapler,East,3,1110.36,223.03
+FLI-10370,2024-03-26,Customer 53,Technology,Laptop,West,7,2533.59,549.49
+FLI-10371,2024-03-28,Customer 7,Office Supplies,Stapler,East,1,300.29,18.34
+FLI-10372,2024-03-29,Customer 48,Technology,Router,South,7,970.83,135.2
+FLI-10373,2024-03-30,Customer 46,Office Supplies,Stapler,West,4,144.45,13.62
+FLI-10374,2024-03-31,Customer 22,Office Supplies,Paper,North,2,242.03,13.0
+FLI-10375,2024-04-02,Customer 33,Furniture,Desk,North,1,59.34,10.37
+FLI-10376,2024-04-03,Customer 17,Office Supplies,Pen Pack,North,7,2835.61,171.75
+FLI-10377,2024-04-04,Customer 34,Office Supplies,Binder,South,6,2172.9,300.44
+FLI-10378,2024-04-05,Customer 3,Furniture,Bookshelf,West,3,464.98,77.6
+FLI-10379,2024-04-06,Customer 40,Technology,Monitor,East,3,1191.23,252.47
+FLI-10380,2024-04-08,Customer 19,Office Supplies,Binder,West,6,1813.05,127.73
+FLI-10381,2024-04-09,Customer 33,Office Supplies,Paper,South,1,104.78,22.71
+FLI-10382,2024-04-10,Customer 34,Technology,Laptop,North,1,187.51,26.58
+FLI-10383,2024-04-11,Customer 14,Furniture,Bookshelf,East,5,1615.68,169.78
+FLI-10384,2024-04-12,Customer 25,Office Supplies,Pen Pack,West,3,1145.08,101.07
+FLI-10385,2024-04-14,Customer 42,Furniture,Bookshelf,East,2,103.55,18.31
+FLI-10386,2024-04-15,Customer 25,Technology,Monitor,North,4,889.89,148.74
+FLI-10387,2024-04-16,Customer 41,Technology,Printer,South,2,897.71,116.04
+FLI-10388,2024-04-17,Customer 10,Furniture,Office Chair,East,1,201.33,37.95
+FLI-10389,2024-04-19,Customer 53,Technology,Printer,East,4,1525.09,133.26
+FLI-10390,2024-04-20,Customer 38,Technology,Monitor,West,4,248.79,10.58
+FLI-10391,2024-04-21,Customer 53,Office Supplies,Pen Pack,North,4,768.61,112.74
+FLI-10392,2024-04-22,Customer 1,Furniture,Desk,South,4,1369.38,273.15
+FLI-10393,2024-04-23,Customer 49,Office Supplies,Stapler,East,7,2964.86,438.88
+FLI-10394,2024-04-25,Customer 25,Furniture,Office Chair,West,5,131.61,24.67
+FLI-10395,2024-04-26,Customer 46,Office Supplies,Pen Pack,South,5,622.9,113.02
+FLI-10396,2024-04-27,Customer 56,Technology,Laptop,South,3,437.92,71.58
+FLI-10397,2024-04-28,Customer 52,Furniture,Office Chair,West,6,2223.92,321.26
+FLI-10398,2024-04-30,Customer 42,Furniture,Desk,East,3,849.35,127.53
+FLI-10399,2024-05-01,Customer 37,Furniture,Office Chair,North,3,1106.08,83.52
+FLI-10400,2024-05-02,Customer 24,Furniture,Bookshelf,North,3,1115.14,58.53
+FLI-10401,2024-05-03,Customer 39,Technology,Printer,West,3,1074.62,83.69
+FLI-10402,2024-05-04,Customer 38,Technology,Router,East,3,276.29,41.64
+FLI-10403,2024-05-06,Customer 48,Technology,Printer,East,2,482.72,69.69
+FLI-10404,2024-05-07,Customer 59,Office Supplies,Paper,North,1,318.42,35.58
+FLI-10405,2024-05-08,Customer 24,Technology,Printer,East,3,591.28,66.4
+FLI-10406,2024-05-09,Customer 52,Office Supplies,Binder,North,5,2126.38,295.94
+FLI-10407,2024-05-11,Customer 52,Office Supplies,Binder,West,2,47.16,9.73
+FLI-10408,2024-05-12,Customer 30,Technology,Monitor,South,1,,5.85
+FLI-10409,2024-05-13,Customer 7,Technology,Monitor,North,1,,6.63
+FLI-10410,2024-05-14,Customer 10,Technology,Router,South,7,2493.18,302.3
+FLI-10411,2024-05-15,Customer 22,Office Supplies,Pen Pack,North,7,223.73,20.08
+FLI-10412,2024-05-17,Customer 30,Furniture,Bookshelf,South,7,2899.69,509.88
+FLI-10413,2024-05-18,Customer 20,Technology,Laptop,North,7,1401.02,156.02
+FLI-10414,2024-05-19,Customer 57,Office Supplies,Binder,East,3,913.32,171.14
+FLI-10415,2024-05-20,Customer 36,Office Supplies,Paper,West,6,1275.54,52.81
+FLI-10416,2024-05-21,Customer 24,Technology,Printer,South,4,1219.91,68.58
+FLI-10417,2024-05-23,Customer 46,Office Supplies,Pen Pack,West,4,1355.76,236.29
+FLI-10418,2024-05-24,Customer 57,Technology,Printer,North,7,2838.51,577.25
+FLI-10419,2024-05-25,Customer 22,Office Supplies,Binder,East,5,2125.28,332.67
+FLI-10420,2024-05-26,Customer 25,Furniture,Bookshelf,East,4,744.31,132.35
+FLI-10421,2024-05-28,Customer 35,Office Supplies,Binder,South,2,864.61,51.85
+FLI-10422,2024-05-29,Customer 32,Technology,Monitor,North,3,333.01,53.03
+FLI-10423,2024-05-30,Customer 20,Furniture,Office Chair,North,2,459.76,25.57
+FLI-10424,2024-05-31,Customer 31,Technology,Monitor,South,4,254.83,13.98
+FLI-10425,2024-06-01,Customer 24,Office Supplies,Stapler,East,2,128.71,19.67
+FLI-10426,2024-06-03,Customer 33,Furniture,Sofa,North,2,621.32,125.68
+FLI-10427,2024-06-04,Customer 48,Furniture,Bookshelf,East,2,89.62,17.24
+FLI-10428,2024-06-05,Customer 44,Office Supplies,Pen Pack,North,6,803.35,138.28
+FLI-10429,2024-06-06,Customer 36,Furniture,Bookshelf,North,2,665.76,46.06
+FLI-10430,2024-06-08,Customer 3,Furniture,Desk,North,3,783.02,91.34
+FLI-10431,2024-06-09,Customer 51,Furniture,Desk,East,5,1328.8,187.16
+FLI-10432,2024-06-10,Customer 41,Technology,Laptop,East,6,1627.81,123.29
+FLI-10433,2024-06-11,Customer 13,Technology,Router,South,2,183.87,12.96
+FLI-10434,2024-06-12,Customer 34,Furniture,Desk,West,5,708.8,155.28
+FLI-10435,2024-06-14,Customer 41,Office Supplies,Stapler,East,2,103.55,18.58
+FLI-10436,2024-06-15,Customer 4,Office Supplies,Paper,West,4,193.75,5.59
+FLI-10437,2024-06-16,Customer 59,Technology,Router,South,6,940.25,49.5
+FLI-10438,2024-06-17,Customer 12,Office Supplies,Stapler,South,4,8677.14,561.19
+FLI-10439,2024-06-19,Customer 17,Furniture,Office Chair,East,1,181.0,30.77
+FLI-10440,2024-06-20,Customer 29,Office Supplies,Paper,North,7,1373.54,284.01
+FLI-10441,2024-06-21,Customer 46,Technology,Monitor,East,7,1909.66,143.94
+FLI-10442,2024-06-22,Customer 50,Technology,Router,South,4,276.53,9.49
+FLI-10443,2024-06-23,Customer 26,Furniture,Sofa,South,2,351.69,17.08
+FLI-10444,2024-06-25,Customer 48,Technology,Laptop,North,1,77.72,16.43
+FLI-10445,2024-06-26,Customer 53,Technology,Monitor,West,1,358.52,30.73
+FLI-10446,2024-06-27,Customer 23,Technology,Printer,North,5,1327.26,191.02
+FLI-10447,2024-06-28,Customer 51,Office Supplies,Paper,North,6,711.5,56.36
+FLI-10448,2024-06-29,Customer 25,Technology,Laptop,West,7,2728.19,80.62
+FLI-10449,2024-07-01,Customer 4,Office Supplies,Pen Pack,West,3,1204.31,85.82
+FLI-10450,2024-07-02,Customer 53,Technology,Printer,North,1,90.1,15.18
+FLI-10451,2024-07-03,Customer 21,Technology,Monitor,West,2,542.72,33.68
+FLI-10452,2024-07-04,Customer 38,Office Supplies,Stapler,South,4,1241.68,37.35
+FLI-10453,2024-07-06,Customer 12,Office Supplies,Paper,East,1,160.58,33.59
+FLI-10454,2024-07-07,Customer 40,Furniture,Bookshelf,South,2,451.45,91.95
+FLI-10455,2024-07-08,Customer 2,Furniture,Office Chair,East,6,1587.69,172.44
+FLI-10456,2024-07-09,Customer 33,Office Supplies,Binder,East,3,681.27,46.02
+FLI-10457,2024-07-10,Customer 26,Technology,Router,West,5,2105.62,429.35
+FLI-10458,2024-07-12,Customer 37,Furniture,Sofa,South,6,2269.28,430.82
+FLI-10459,2024-07-13,Customer 23,Office Supplies,Paper,North,1,403.21,53.8
+FLI-10460,2024-07-14,Customer 7,Office Supplies,Stapler,East,6,924.41,114.74
+FLI-10461,2024-07-15,Customer 21,Technology,Laptop,East,6,2608.19,107.81
+FLI-10462,2024-07-17,Customer 1,Office Supplies,Pen Pack,East,5,1634.88,348.32
+FLI-10463,2024-07-18,Customer 4,Furniture,Desk,East,6,1322.61,83.22
+FLI-10464,2024-07-19,Customer 31,Technology,Monitor,South,6,249.57,47.77
+FLI-10465,2024-07-20,Customer 25,Office Supplies,Pen Pack,South,5,926.37,94.92
+FLI-10466,2024-07-21,Customer 41,Office Supplies,Paper,North,5,1797.64,330.74
+FLI-10467,2024-07-23,Customer 32,Technology,Printer,West,6,378.26,45.79
+FLI-10468,2024-07-24,Customer 38,Technology,Printer,East,5,430.54,91.28
+FLI-10469,2024-07-25,Customer 48,Technology,Router,East,4,787.0,145.19
+FLI-10470,2024-07-26,Customer 18,Furniture,Sofa,East,4,1076.98,53.85
+FLI-10471,2024-07-28,Customer 4,Furniture,Office Chair,East,1,390.49,28.08
+FLI-10472,2024-07-29,Customer 11,Office Supplies,Pen Pack,East,4,1046.49,187.76
+FLI-10473,2024-07-30,Customer 18,Office Supplies,Paper,West,1,344.52,8.5
+FLI-10474,2024-07-31,Customer 27,Technology,Router,North,4,816.03,77.7
+FLI-10475,2024-08-01,Customer 26,Office Supplies,Binder,South,5,687.34,100.16
+FLI-10476,2024-08-03,Customer 31,Office Supplies,Stapler,South,6,332.47,21.07
+FLI-10477,2024-08-04,Customer 48,Technology,Router,South,4,1583.47,206.7
+FLI-10478,2024-08-05,Customer 25,Furniture,Sofa,South,2,707.27,31.83
+FLI-10479,2024-08-06,Customer 5,Furniture,Desk,South,7,3121.76,419.55
+FLI-10480,2024-08-07,Customer 53,Furniture,Office Chair,South,4,1125.58,156.53
+FLI-10481,2024-08-09,Customer 11,Office Supplies,Binder,South,3,472.09,56.06
+FLI-10482,2024-08-10,Customer 20,Technology,Monitor,South,7,1712.38,49.58
+FLI-10483,2024-08-11,Customer 49,Furniture,Sofa,East,5,441.3,50.49
+FLI-10484,2024-08-12,Customer 27,Office Supplies,Binder,South,3,990.32,65.35
+FLI-10485,2024-08-14,Customer 56,Technology,Router,West,4,872.44,180.95
+FLI-10486,2024-08-15,Customer 23,Furniture,Office Chair,North,4,610.87,13.94
+FLI-10487,2024-08-16,Customer 52,Furniture,Desk,West,4,941.68,119.93
+FLI-10488,2024-08-17,Customer 26,Technology,Laptop,North,2,413.99,32.34
+FLI-10489,2024-08-18,Customer 58,Office Supplies,Paper,North,7,731.37,59.41
+FLI-10490,2024-08-20,Customer 33,Office Supplies,Stapler,West,5,319.48,28.58
+FLI-10491,2024-08-21,Customer 15,Furniture,Desk,South,6,1339.41,288.79
+FLI-10492,2024-08-22,Customer 11,Technology,Laptop,West,1,401.02,22.96
+FLI-10493,2024-08-23,Customer 12,Office Supplies,Paper,South,3,,25.25
+FLI-10494,2024-08-25,Customer 42,Technology,Laptop,East,6,606.4,51.76
+FLI-10495,2024-08-26,Customer 26,Technology,Router,East,1,198.23,13.06
+FLI-10496,2024-08-27,Customer 26,Furniture,Bookshelf,South,5,1487.84,109.26
+FLI-10497,2024-08-28,Customer 13,Technology,Printer,South,6,2693.01,517.12
+FLI-10498,2024-08-29,Customer 17,Technology,Router,South,6,500.95,13.53
+FLI-10499,2024-08-31,Customer 44,Technology,Printer,South,5,381.31,17.02
+FLI-10500,2024-09-01,Customer 41,Office Supplies,Stapler,East,3,887.62,66.44
+FLI-10501,2024-09-02,Customer 32,Furniture,Desk,North,3,1342.25,171.73
+FLI-10502,2024-09-03,Customer 46,Furniture,Desk,North,5,1738.11,128.16
+FLI-10503,2024-09-05,Customer 52,Technology,Router,South,2,895.81,65.13
+FLI-10504,2024-09-06,Customer 46,Technology,Monitor,West,5,810.39,55.87
+FLI-10505,2024-09-07,Customer 8,Office Supplies,Pen Pack,West,7,1097.74,49.05
+FLI-10506,2024-09-08,Customer 41,Furniture,Bookshelf,South,5,1824.92,246.29
+FLI-10507,2024-09-09,Customer 24,Office Supplies,Paper,West,1,34.89,2.39
+FLI-10508,2024-09-11,Customer 3,Furniture,Bookshelf,West,2,745.68,105.64
+FLI-10509,2024-09-12,Customer 20,Office Supplies,Stapler,East,4,1303.22,210.15
+FLI-10510,2024-09-13,Customer 28,Technology,Router,South,2,668.97,21.41
+FLI-10511,2024-09-14,Customer 37,Office Supplies,Paper,North,6,1506.11,81.29
+FLI-10512,2024-09-15,Customer 45,Technology,Monitor,North,4,139.9,14.06
+FLI-10513,2024-09-17,Customer 18,Furniture,Office Chair,North,6,224.79,19.09
+FLI-10514,2024-09-18,Customer 9,Furniture,Sofa,East,1,327.89,51.71
+FLI-10515,2024-09-19,Customer 48,Technology,Monitor,North,6,578.35,76.87
+FLI-10516,2024-09-20,Customer 37,Furniture,Desk,West,6,970.81,129.47
+FLI-10517,2024-09-22,Customer 38,Office Supplies,Pen Pack,North,2,675.94,85.44
+FLI-10518,2024-09-23,Customer 45,Technology,Router,South,7,1981.49,359.88
+FLI-10519,2024-09-24,Customer 2,Furniture,Office Chair,South,6,1742.1,251.77
+FLI-10520,2024-09-25,Customer 9,Office Supplies,Binder,East,2,147.92,27.01
+FLI-10521,2024-09-26,Customer 45,Office Supplies,Binder,West,4,1631.99,329.13
+FLI-10522,2024-09-28,Customer 34,Furniture,Desk,North,6,907.78,88.21
+FLI-10523,2024-09-29,Customer 44,Furniture,Desk,North,7,2792.57,139.26
+FLI-10524,2024-09-30,Customer 37,Office Supplies,Pen Pack,South,7,2530.62,68.93
+FLI-10525,2024-10-01,Customer 30,Technology,Laptop,West,5,1167.49,139.09
+FLI-10526,2024-10-03,Customer 60,Furniture,Desk,East,1,399.48,30.97
+FLI-10527,2024-10-04,Customer 29,Furniture,Sofa,South,7,819.15,157.95
+FLI-10528,2024-10-05,Customer 9,Technology,Laptop,South,1,96.32,19.77
+FLI-10529,2024-10-06,Customer 22,Technology,Laptop,North,2,292.89,37.67
+FLI-10530,2024-10-07,Customer 22,Furniture,Sofa,West,7,140.01,23.72
+FLI-10531,2024-10-09,Customer 17,Technology,Printer,South,5,1088.86,144.26
+FLI-10532,2024-10-10,Customer 2,Office Supplies,Pen Pack,North,5,1522.82,162.63
+FLI-10533,2024-10-11,Customer 30,Office Supplies,Stapler,West,7,,11.13
+FLI-10534,2024-10-12,Customer 60,Office Supplies,Stapler,East,4,513.25,87.24
+FLI-10535,2024-10-14,Customer 53,Furniture,Desk,South,2,599.43,33.51
+FLI-10536,2024-10-15,Customer 20,Technology,Laptop,North,2,687.98,42.11
+FLI-10537,2024-10-16,Customer 31,Office Supplies,Paper,South,5,411.42,27.8
+FLI-10538,2024-10-17,Customer 26,Technology,Monitor,South,6,1655.66,206.41
+FLI-10539,2024-10-18,Customer 4,Office Supplies,Binder,South,4,130.95,19.34
+FLI-10540,2024-10-20,Customer 42,Technology,Printer,East,5,747.79,39.24
+FLI-10541,2024-10-21,Customer 56,Office Supplies,Binder,South,5,1073.84,109.66
+FLI-10542,2024-10-22,Customer 46,Office Supplies,Binder,South,5,1805.71,145.41
+FLI-10543,2024-10-23,Customer 51,Office Supplies,Pen Pack,East,2,237.66,32.82
+FLI-10544,2024-10-24,Customer 15,Office Supplies,Paper,West,2,,56.53
+FLI-10545,2024-10-26,Customer 38,Office Supplies,Stapler,North,3,1306.96,132.07
+FLI-10546,2024-10-27,Customer 6,Office Supplies,Pen Pack,East,4,928.92,115.45
+FLI-10547,2024-10-28,Customer 3,Office Supplies,Paper,South,5,214.11,29.85
+FLI-10548,2024-10-29,Customer 15,Office Supplies,Paper,North,5,1894.16,151.77
+FLI-10549,2024-10-31,Customer 42,Office Supplies,Pen Pack,South,4,1322.38,130.34
+FLI-10550,2024-11-01,Customer 20,Technology,Router,East,2,464.92,17.96
+FLI-10551,2024-11-02,Customer 60,Technology,Laptop,East,4,,85.31
+FLI-10552,2024-11-03,Customer 2,Furniture,Bookshelf,North,4,1121.18,57.44
+FLI-10553,2024-11-04,Customer 52,Office Supplies,Paper,South,4,1371.0,68.47
+FLI-10554,2024-11-06,Customer 40,Technology,Laptop,East,6,532.72,101.83
+FLI-10555,2024-11-07,Customer 8,Technology,Router,North,3,265.92,45.17
+FLI-10556,2024-11-08,Customer 7,Technology,Monitor,West,6,833.77,46.56
+FLI-10557,2024-11-09,Customer 54,Technology,Monitor,North,7,2820.12,266.46
+FLI-10558,2024-11-11,Customer 11,Technology,Monitor,South,4,583.72,87.28
+FLI-10559,2024-11-12,Customer 36,Technology,Printer,South,4,938.36,24.56
+FLI-10560,2024-11-13,Customer 9,Furniture,Desk,South,1,150.16,16.0
+FLI-10561,2024-11-14,Customer 57,Technology,Monitor,North,2,185.67,14.93
+FLI-10562,2024-11-15,Customer 20,Furniture,Desk,South,5,1077.02,101.03
+FLI-10563,2024-11-17,Customer 50,Furniture,Sofa,East,2,527.95,103.45
+FLI-10564,2024-11-18,Customer 18,Office Supplies,Binder,West,3,659.69,47.45
+FLI-10565,2024-11-19,Customer 40,Office Supplies,Stapler,West,2,656.13,18.02
+FLI-10566,2024-11-20,Customer 4,Office Supplies,Paper,East,4,,125.52
+FLI-10567,2024-11-22,Customer 14,Technology,Router,South,3,186.57,7.39
+FLI-10568,2024-11-23,Customer 35,Office Supplies,Paper,West,1,85.02,2.0
+FLI-10569,2024-11-24,Customer 18,Technology,Monitor,East,7,1972.46,206.77
+FLI-10570,2024-11-25,Customer 56,Technology,Printer,North,6,1515.44,189.95
+FLI-10571,2024-11-26,Customer 23,Office Supplies,Stapler,North,1,228.6,9.79
+FLI-10572,2024-11-28,Customer 42,Office Supplies,Pen Pack,North,5,2171.02,75.82
+FLI-10573,2024-11-29,Customer 11,Furniture,Sofa,North,6,2218.68,429.6
+FLI-10574,2024-11-30,Customer 42,Furniture,Sofa,West,6,1420.38,238.05
+FLI-10575,2024-12-01,Customer 22,Technology,Monitor,West,2,1613.12,339.78
+FLI-10576,2024-12-02,Customer 41,Technology,Printer,South,2,176.91,9.37
+FLI-10577,2024-12-04,Customer 48,Office Supplies,Stapler,East,7,2909.26,410.35
+FLI-10578,2024-12-05,Customer 14,Office Supplies,Stapler,East,1,148.23,21.93
+FLI-10579,2024-12-06,Customer 36,Furniture,Sofa,North,1,466.91,45.05
+FLI-10580,2024-12-07,Customer 57,Office Supplies,Paper,East,1,212.6,33.33
+FLI-10581,2024-12-09,Customer 16,Technology,Monitor,East,1,173.63,10.46
+FLI-10582,2024-12-10,Customer 38,Office Supplies,Pen Pack,West,1,309.71,41.66
+FLI-10583,2024-12-11,Customer 45,Furniture,Sofa,West,2,863.39,151.9
+FLI-10584,2024-12-12,Customer 3,Technology,Monitor,East,6,3884.35,647.35
+FLI-10585,2024-12-13,Customer 19,Furniture,Sofa,West,2,675.98,26.5
+FLI-10586,2024-12-15,Customer 36,Furniture,Desk,West,1,479.24,88.43
+FLI-10587,2024-12-16,Customer 55,Technology,Laptop,West,6,814.12,175.3
+FLI-10588,2024-12-17,Customer 12,Furniture,Sofa,West,5,668.56,16.15
+FLI-10589,2024-12-18,Customer 27,Office Supplies,Paper,West,2,771.1,85.18
+FLI-10590,2024-12-20,Customer 43,Office Supplies,Binder,East,2,1205.77,79.44
+FLI-10591,2024-12-21,Customer 59,Furniture,Sofa,South,2,619.34,85.14
+FLI-10592,2024-12-22,Customer 14,Office Supplies,Paper,South,4,2292.3,329.24
+FLI-10593,2024-12-23,Customer 34,Furniture,Bookshelf,West,7,1105.27,40.66
+FLI-10594,2024-12-24,Customer 49,Office Supplies,Stapler,West,5,,174.45
+FLI-10595,2024-12-26,Customer 34,Furniture,Sofa,North,4,1798.95,317.56
+FLI-10596,2024-12-27,Customer 57,Office Supplies,Stapler,South,7,460.99,87.73
+FLI-10597,2024-12-28,Customer 41,Technology,Router,West,1,398.56,81.37
+FLI-10598,2024-12-29,Customer 34,Technology,Router,South,6,2340.66,277.73
+FLI-10599,2024-12-31,Customer 35,Office Supplies,Binder,South,3,1795.41,142.79
+FLI-10446,2024-06-27,Customer 23,Technology,Printer,North,5,1327.26,191.02
+FLI-10404,2024-05-07,Customer 59,Office Supplies,Paper,North,1,318.42,35.58
+FLI-10509,2024-09-12,Customer 20,Office Supplies,Stapler,East,4,1303.22,210.15
+FLI-10455,2024-07-08,Customer 2,Furniture,Office Chair,East,6,1587.69,172.44
+FLI-10201,2023-09-02,Customer 50,Office Supplies,Pen Pack,East,4,606.04,76.63
